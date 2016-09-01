@@ -1,0 +1,244 @@
+# ===Path to dir holding transcript BLAST databases===
+bank_dir: /home/fbigey/Projets/Stage_Master/Genome
+
+# ===Path to dir holding complete proteome BLAST databases===
+ref_bank_dir: /home/fbigey/Projets/Stage_Master/EnsemblFungi/RefGenome
+
+# ===Path to dir holding NCBI Taxonomy database===
+# Only required when specifying 'tax_filter' below.
+# It can be installed using setup-taxdir.pl.
+tax_dir: /home/fbigey/Projets/Stage_Master/Taxonomy
+
+# ===Basenames of complete proteome BLAST databases (keyed by org name)===
+# You can list as many databases as needed here.
+# Only those specified as 'ref_orgs' below will actually be used for BRH.
+ref_org_mapper:
+    Ashbya gossypii: Ashbya_gossypii.ASM9102v1.31.pep.all.fasta
+    Brettanomyces_bruxellensis: Brettanomyces_bruxellensis_awri1499.AWRI1499_v1_0.31.pep.all.fasta
+    Candida_albicans: Candida_albicans_sc5314.ASM18296v2.31.pep.all.fasta
+    Candida_dubliniensis: Candida_dubliniensis_cd36.ASM2694v1.31.pep.all.fasta
+    Candida_glabrata: Candida_glabrata.ASM254v2.31.pep.all.fasta
+    Candida_tropicalis: Candida_tropicalis_mya_3404.ASM633v2.31.pep.all.fasta
+    Debaryomyces_hansenii: Debaryomyces_hansenii_cbs767.ASM644v2.31.pep.all.fasta
+    Geotrichum_candidum: Geotrichum_candidum.New2_3_08062011.31.pep.all.fasta
+    Kazachstania_naganishii: Kazachstania_naganishii_cbs_8797.ASM34898v1.31.pep.all.fasta
+    Kluyveromyces_lactis: Kluyveromyces_lactis.ASM251v1.31.pep.all.fasta
+    Lachancea_thermotolerans: Lachancea_thermotolerans_cbs_6340.ASM14280v1.31.pep.all.fasta
+    Lodderomyces_elongisporus: Lodderomyces_elongisporus_nrrl_yb_4239.ASM14968v1.31.pep.all.fasta
+    Saccharomyces cerevisiae: Saccharomyces_cerevisiae.R64-1-1.31.pep.all.fasta
+    Saccharomyces kudriavzevii: Saccharomyces_kudriavzevii_ifo_1802.Saccharomyces_kudriavzevii_strain_IFO1802_v1_0.31.pep.all.fasta
+    Torulaspora_delbrueckii: Torulaspora_delbrueckii.ASM24337v1.31.pep.all.fasta
+    Vanderwaltozyma_polyspora: Vanderwaltozyma_polyspora_dsm_70294.ASM15003v1.31.pep.all.fasta
+    Yarrowia_lipolytica: Yarrowia_lipolytica.GCA_000002525.1.31.pep.all.fasta
+    Zygosaccharomyces bailii: Zygosaccharomyces_bailii_isa1307.Z_bailii_ISA1307_version_3.31.pep.all.fasta
+    Zygosaccharomyces rouxii: Zygosaccharomyces_rouxii.ASM2636v1.31.pep.all.fasta
+
+# ===Orgs from where to select BLAST queries===
+# Depending on availability at least one query by family and by org will be
+# picked for the 'homologues' and 'references' BLAST rounds.
+query_orgs:
+    - Ashbya gossypii
+    - Brettanomyces_bruxellensis
+    - Candida_albicans
+    - Candida_dubliniensis
+    - Candida_glabrata
+    - Candida_tropicalis
+    - Debaryomyces_hansenii
+    - Geotrichum_candidum
+    - Kazachstania_naganishii
+    - Kluyveromyces_lactis
+    - Lachancea_thermotolerans
+    - Lodderomyces_elongisporus
+    - Saccharomyces cerevisiae
+    - Saccharomyces kudriavzevii
+    - Torulaspora_delbrueckii
+    - Vanderwaltozyma_polyspora
+    - Yarrowia_lipolytica
+    - Zygosaccharomyces bailii
+    - Zygosaccharomyces rouxii
+
+# ===Orgs to be used for BRH checks===
+# To be considered as an orthologue, a candidate seq must be in transitive BRH
+# for all listed orgs (and not for only one of them).
+# Listing more orgs thus increases the stringency of the BRH check. Note that
+# 'ref_orgs' do not need to match 'query_orgs'.
+ref_orgs:
+    - Ashbya gossypii
+    - Brettanomyces_bruxellensis
+    - Candida_albicans
+    - Candida_dubliniensis
+    - Candida_glabrata
+    - Candida_tropicalis
+    - Debaryomyces_hansenii
+    - Geotrichum_candidum
+    - Kazachstania_naganishii
+    - Kluyveromyces_lactis
+    - Lachancea_thermotolerans
+    - Lodderomyces_elongisporus
+    - Saccharomyces cerevisiae
+    - Saccharomyces kudriavzevii
+    - Torulaspora_delbrueckii
+    - Vanderwaltozyma_polyspora
+    - Yarrowia_lipolytica
+    - Zygosaccharomyces bailii
+    - Zygosaccharomyces rouxii
+
+# Any valid command-line option can be specified (see NCBIBLAST+ docs).
+# Note the hyphens (-) before option names (departing from API consistency).
+# -query, -db, -out, -outfmt, -max_target_seqs, -db_gencode, -query_gencode
+# will be ignored as they are directly handled by forty-two itself.
+blast_args:
+
+   # TBLASTN vs banks
+   homologues:
+      -evalue: 1e-10
+      -seg: yes
+      -num_threads: 1
+
+   # BLASTP vs ref banks (for transitive BRH ; actually two steps)
+   references:
+      -evalue: 1e-10
+      -num_threads: 1
+
+   # BLASTX vs ref banks (for transitive BRH)
+   orthologues:
+      -evalue: 1e-10
+      -num_threads: 1
+
+   # BLASTX vs ALI (for tax filters and alignment)
+   templates:
+      -evalue: 1e-10
+      -num_threads: 14
+      -seg: no
+
+# ===Step(s) where to apply seq trimming===
+# Currently, only one value is available: 'homologues'. In the future, a value
+# 'queries' will be implemented too. Since multiple values are allowed, they
+# must be specified as a list.
+# If 'homologues' is specified, each candidate seq is first trimmed to the max
+# range covered by the queries that retrieved it. This should help discarding
+# non-homologous extensions that might be part of a fine transcript. When not
+# specified, 'seq_trimming' internally defaults to no value.
+seq_trimming:
+    - homologues
+
+# ===BRH mode for assessing orthology===
+# Currently, two values are available: 'strict' and 'disabled'.
+# In 'strict' mode, a candidate seq must be in BRH with all reference
+# proteomes to be considered as an orthologous seq. In contrast, all candidate
+# seqs are considered as orthologous seqs when BRH is disabled.
+# When not specified, 'brh_mode' internally defaults to 'strict'.
+# To limit the number of candidate seqs, use the '-max_target_seqs' option of
+# the BLAST executable(s) at the homologues step.
+brh_mode: strict
+
+# ===Fraction of ref_orgs to really use when assessing orthology===
+# This parameter introduces some flexibility when using reference proteomes.
+# If set to a fractional value (below 1), only the best proteomes will be
+# considered during BRHs. The best proteomes are those against which the
+# queries have the highest average scores. This helps discarding ref_orgs that
+# might hinder orthology assessment because they lack the orthologous gene(s).
+# When not specified, 'reg_org_mul' internally defaults to 1.0, which is the
+# strictest mode where all reference proteomes are used during BRHs.
+# ref_org_mul: 1.0
+ref_org_mul: 0.5
+
+# ===Bit Score reduction tolerated when including non-1st hits among best hits===
+# This parameter applies when collecting best hits for queries to complete
+# proteomes, so that close in-paralogues can all be included in the set of
+# best hits. During BRH checks, only the very first hit for the candidate seq
+# is actually tested for inclusion in this set but for all complete proteomes.
+# Currently at most ten hits are considered but this might change if needed.
+# When not specified 'coverage_mul' internally defaults to 1.0, which is the
+# strictest mode where only equally-best hits are retained.
+# bitscore_mul: 1.00
+bitscore_mul: 0.99
+
+# ===Coverage improvement required for aligning a new seq more than once===
+# When not specified 'coverage_mul' internally defaults to 1.1.
+# This means that if the BLAST alignment with the second template is at least
+# 110% of the BLAST alignment with the first template, the new seq will be
+# added twice to the ALI (under the ids *.H1.N and *.H2.N).
+# Currently five templates are considered but this might change if needed.
+coverage_mul: 1.1
+
+# ===Engine to be used for aligning new seqs===
+# Four values are available: 'blast', 'exonerate', 'exoblast' and 'disabled'.
+# If the alignment engine is disabled, new seqs are added 'as is' to the ALI.
+# Consequently, they will be full length but not aligned to existing seqs.
+# This mode is meant for protein seqs only and thus cannot be used when adding
+# transcripts from nucleotide banks.
+# The exonerate mode sometimes fails to align orthologous seqs due to a bug in
+# the exonerate executable. This causes the new seqs to be discarded. To retry
+# aligning them using BLAST instead, use the 'exoblast' mode.
+# When not specified, 'aligner' internally defaults to 'blast'.
+aligner: blast
+#aligner: exonerate
+#aligner: exoblast
+
+# ===Action to perform when tax_filter identifies a contamination===
+# This arg is only meaningful when specifying 'tax_filter' below.
+# Currently, two values are available: 'remove' and 'tag'.
+# When not specified, 'tf_action' internally defaults to 'tag'.
+# tf_action: tag
+tf_action: remove
+
+# ===Action to perform when a preexisting lengthened seq is identified===
+# Currently, two values are available: 'remove' and 'keep'.
+# When not specified, 'ls_action' internally defaults to 'keep'.
+#ls_action: keep
+ls_action: remove
+
+# ===Optional args for each BLAST round===
+# ===Suffix to append to infile basenames for deriving outfile names===
+# When not specified 'outsuffix' internally defaults to '-42'.
+# Use a bare 'out_suffix:' to reuse the ALI name and to preserve the original
+# file by appending a .bak extension to its name.
+out_suffix: .42
+
+# ===Default args applying to all orgs unless otherwise specified===
+# Some of these args can be thus specified on a per-org basis below if needed.
+# This especially makes sense for 'code' (but not only).
+defaults:
+
+   # ===Seq type of transcript BLAST databases===
+   # Two values are available: 'nucl' and 'prot'.
+   # When not specified 'bank_type' internally defaults to 'nucl'.
+    bank_type: prot
+
+   # ===Genetic code for translated BLAST searches===
+   # When not specified 'code' internally defaults to 1 (standard).
+   # See ftp://ftp.ncbi.nih.gov/entrez/misc/data/gc.prt for other codes.
+    code: 1
+
+# ===Org-specific args===
+# The only mandatory args are 'org' and 'banks'. All other args are taken from
+# the 'defaults:' section described above.
+# This part can be concatenated on a per-run basis to the previous part, which
+# would be the same for several runs. In the future, forty-two might support
+# two different configuration files to reflect this conceptual distinction.
+orgs:
+   # ===Org name as to be added in the ALI===
+   # You can use either 'Genus species', 'Genus species_strain' or the newer
+   # 'Genus species_taxonid' back-compatible base ids of Bio::MUST.
+   # NOTE THAT FORTY-TWO REQUIRES PERFECT NAME MATCHING FOR IDENTIFYING ORGS.
+   # It will thus never drop a part of the name (even not the strain) to try
+   # to match a closely related org. This is needed to allows it to deal with
+   # bacteria en micro-eukaryotes where strains can be quite distinct.
+   #  - org: Doliolum sp.
+   #  - org: Asbestopluma hypogea_68561    (using Bio::MUST base ids)
+   # ===Basenames of transcript BLAST databases===
+   # Seq ids are assumed to be unique across all databases. 42 will not crash
+   # if this assumption is violated but results may become less reliable.
+   #    banks:
+   #        - Doliolum_sp_SRRDoliolum_PS_trimmo_soap_35.fasta
+   # ===Specs of the taxonomic filter aimed at flagging contaminations===
+   # When specified the closest hit in ALI must belong to one of the +taxa
+   #                           ... and must not belong to any of the -taxa.
+   # If it is not the case the new seq in flagged as a contamination.
+   # +taxa defaults to 'cellular organisms' while -taxa defaults to nothing.
+   # tax_filter is optional.
+   #    tax_filter: [ +Porifera, -Calcarea ]
+    - org: Saccharomyces eubayanus
+      banks:
+        - Saccharomyces_eubayanus.SEUB3_0.31.pep.all.fasta

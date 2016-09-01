@@ -1,0 +1,590 @@
+#name	species	division	taxonomy_id	assembly	assembly_accession	genebuild	variation	pan_compara	peptide_compara	genome_alignments	other_alignments	core_db	species_id
+Acremonium chrysogenum ATCC 11550	acremonium_chrysogenum_atcc_11550	EnsemblFungi	857340	ASM76926v1	GCA_000769265.1	2014-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	244	
+Agaricus bisporus var. bisporus H97	agaricus_bisporus_var_bisporus_h97	EnsemblFungi	936046	Agabi_varbisH97_2	GCA_000300575.1	2012-12-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	37	
+Agaricus bisporus var. burnettii JB137-S8	agaricus_bisporus_var_burnettii_jb137_s8	EnsemblFungi	597362	Agabi_varbur_1	GCA_000300555.1	2012-10-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	51	
+Allomyces macrogynus ATCC 38327	allomyces_macrogynus_atcc_38327	EnsemblFungi	578462	ASM15129v1	GCA_000151295.1	2010-02-ENA	N	N	Y	N	N	fungi_blastocladiomycota1_collection_core_31_84_1	1	
+Amanita muscaria Koide BX008	amanita_muscaria_koide_bx008	EnsemblFungi	946122	Amanita muscaria Koide BX008 v1.0	GCA_000827485.1	2015-01-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	68	
+Anncaliia algerae PRA109	anncaliia_algerae_pra109	EnsemblFungi	1240240	Annc_alge_PRA109_V4	GCA_000385855.2	2014-05-ENA	N	N	N	N	N	fungi_microsporidia1_collection_core_31_84_1	17	
+Anncaliia algerae PRA339	anncaliia_algerae_pra339	EnsemblFungi	1288291	Annc_alge_insect_USDA_JJB_V2	GCA_000385875.2	2014-05-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	5	
+Anthracocystis flocculosa PF-1	anthracocystis_flocculosa_pf_1	EnsemblFungi	1277687	Pflocc_1.0	GCA_000417875.1	2014-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	14	
+Arthrobotrys oligospora ATCC 24927	arthrobotrys_oligospora_atcc_24927	EnsemblFungi	756982	AOL24927 1.0	GCA_000225545.1	2011-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	185	
+Arthroderma benhamiae CBS 112371	arthroderma_benhamiae_cbs_112371	EnsemblFungi	663331	ASM15112v2	GCA_000151125.2	2010-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	157	
+Arthroderma otae CBS 113480	arthroderma_otae_cbs_113480	EnsemblFungi	554155	ASM15114v1	GCA_000151145.1	2008-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	16	
+Ashbya gossypii	ashbya_gossypii	EnsemblFungi	284811	ASM9102v1	GCA_000091025.3	2004-03-AGD	N	N	Y	Y	N	ashbya_gossypii_core_31_84_1	1	
+Ashbya gossypii FDAG1	ashbya_gossypii_fdag1	EnsemblFungi	1034331	ASM96883v1	GCA_000968835.1	2012-01-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	180	
+Aspergillus clavatus	aspergillus_clavatus	EnsemblFungi	344612	TIGR	GCA_000002715.1	2005-11-CADRE	N	N	Y	N	N	aspergillus_clavatus_core_31_84_1	1	
+Aspergillus flavus	aspergillus_flavus	EnsemblFungi	332952	JCVI-afl1-v2.0	GCA_000006275.1	2009-01-CADRE	N	N	Y	N	N	aspergillus_flavus_core_31_84_1	1	
+Aspergillus flavus AF70	aspergillus_flavus_af70	EnsemblFungi	1392242	ASM95283v1	GCA_000952835.1	2015-03-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	132	
+Aspergillus fumigatus	aspergillus_fumigatus	EnsemblFungi	330879	TIGR	GCA_000002655.1	2007-01-CADRE	N	N	Y	N	N	aspergillus_fumigatus_core_31_84_2	1	
+Aspergillus fumigatus A1163	aspergillus_fumigatusa1163	EnsemblFungi	451804	JCVI	GCA_000150145.1	2008-04-CADRE	N	N	N	N	N	aspergillus_fumigatusa1163_core_31_84_1	1	
+Aspergillus fumigatus Z5	aspergillus_fumigatus_z5	EnsemblFungi	1437362	ASM102932v1	GCA_001029325.1	2015-06-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	11	
+Aspergillus fumigatus var. RP-2014	aspergillus_fumigatus_var_rp_2014	EnsemblFungi	1476192	AspFumNiv1.0	GCA_000731615.1	2014-07-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	227	
+Aspergillus nidulans	aspergillus_nidulans	EnsemblFungi	227321	ASM1142v1	GCA_000011425.1	2009-03-CADRE	N	Y	Y	N	N	aspergillus_nidulans_core_31_84_6	1	
+Aspergillus nidulans FGSC A4	aspergillus_nidulans_fgsc_a4	EnsemblFungi	227321	ASM14920v2	GCA_000149205.2	2003-04-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	41	
+Aspergillus niger	aspergillus_niger	EnsemblFungi	425011	DSM	GCA_000002855.1	2007-02-CADRE	N	N	Y	N	N	aspergillus_niger_core_31_84_1	1	
+Aspergillus niger ATCC 1015	aspergillus_niger_atcc_1015	EnsemblFungi	380704	ASPNI v3.0	GCA_000230395.2	2011-10-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	13	
+Aspergillus nomius NRRL 13137	aspergillus_nomius_nrrl_13137	EnsemblFungi	1509407	ASM120477v1	GCA_001204775.1	2015-08-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	41	
+Aspergillus ochraceoroseus	aspergillus_ochraceoroseus	EnsemblFungi	138278	ASM98666v1	GCA_000986665.1	2015-05-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	181	
+Aspergillus oryzae	aspergillus_oryzae	EnsemblFungi	510516	NITE	GCA_000184455.1	2006-03-CADRE	N	N	Y	N	N	aspergillus_oryzae_core_31_84_2	1	
+Aspergillus oryzae 100-8	aspergillus_oryzae_100_8	EnsemblFungi	1197718	Aspergillus oryzae 100-8	GCA_000691885.1	2014-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	149	
+Aspergillus oryzae 3.042	aspergillus_oryzae_3_042	EnsemblFungi	1160506	AspOry3042	GCA_000269785.2	2012-06-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	166	
+Aspergillus parasiticus SU-1	aspergillus_parasiticus_su_1	EnsemblFungi	1403190	ASM95608v1	GCA_000956085.1	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	8	
+Aspergillus rambellii	aspergillus_rambellii	EnsemblFungi	308745	ASM98664v1	GCA_000986645.1	2015-05-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	229	
+Aspergillus ruber CBS 135680	aspergillus_ruber_cbs_135680	EnsemblFungi	1388766	Eurhe1	GCA_000600275.1	2014-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	78	
+Aspergillus terreus	aspergillus_terreus	EnsemblFungi	341663	Broad	GCA_000149615.1	2006-09-CADRE	N	N	Y	N	N	aspergillus_terreus_core_31_84_1	1	
+Aspergillus ustus	aspergillus_ustus	EnsemblFungi	40382	Austus1.0	GCA_000812125.1	2015-01-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	18	
+Aureobasidium melanogenum CBS 110374	aureobasidium_melanogenum_cbs_110374	EnsemblFungi	1043003	Aureobasidium pullulans var. melanogenum CBS 110374 v1.0	GCA_000721775.1	2014-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	195	
+Aureobasidium namibiae CBS 147.97	aureobasidium_namibiae_cbs_147_97	EnsemblFungi	1043004	Aureobasidium pullulans var. namibiae CBS 147.97 v1.0	GCA_000721765.1	2014-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	234	
+Aureobasidium pullulans EXF-150	aureobasidium_pullulans_exf_150	EnsemblFungi	1043002	Aureobasidium pullulans var. pullulans EXF-150, assembly version 1.0	GCA_000721785.1	2014-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	202	
+Aureobasidium subglaciale EXF-2481	aureobasidium_subglaciale_exf_2481	EnsemblFungi	1043005	Aureobasidium pullulans var. subglaciale EXF-2481 v1.0	GCA_000721755.1	2014-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	219	
+Batrachochytrium dendrobatidis JAM81	batrachochytrium_dendrobatidis_jam81	EnsemblFungi	684364	v1.0	GCA_000203795.1	2011-04-ENA	N	N	Y	N	N	fungi_chytridiomycota1_collection_core_31_84_1	1	
+Baudoinia panamericana UAMH 10762	baudoinia_panamericana_uamh_10762	EnsemblFungi	717646	Bauco1	GCA_000338955.1	2013-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	4	
+Beauveria bassiana ARSEF 2860	beauveria_bassiana_arsef_2860	EnsemblFungi	655819	ASM28067v1	GCA_000280675.1	2012-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	115	
+Beauveria bassiana D1-5	beauveria_bassiana_d1_5	EnsemblFungi	1245745	BBA1.0	GCA_000770705.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	36	
+Bipolaris maydis ATCC 48331	bipolaris_maydis_atcc_48331	EnsemblFungi	665024	CocheC4_1	GCA_000354255.1	2013-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	90	
+Bipolaris maydis C5	bipolaris_maydis_c5	EnsemblFungi	701091	CocheC5_3	GCA_000338975.1	2013-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	141	
+Bipolaris oryzae ATCC 44560	bipolaris_oryzae_atcc_44560	EnsemblFungi	930090	Cochliobolus miyabeanus v1.0	GCA_000523455.1	2014-01-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	158	
+Bipolaris sorokiniana ND90Pr	bipolaris_sorokiniana_nd90pr	EnsemblFungi	665912	Cocsa1	GCA_000338995.1	2013-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	161	
+Bipolaris victoriae FI3	bipolaris_victoriae_fi3	EnsemblFungi	930091	Cochliobolus victoriae v1.0	GCA_000527765.1	2014-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	116	
+Bipolaris zeicola 26-R-13	bipolaris_zeicola_26_r_13	EnsemblFungi	930089	Cochliobolus carbonum v1.0	GCA_000523435.1	2014-01-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	122	
+Blastomyces dermatitidis ATCC 18188	blastomyces_dermatitidis_atcc_18188	EnsemblFungi	653446	ASM15159v1	GCA_000151595.1	2010-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	118	
+Blastomyces dermatitidis ATCC 26199	blastomyces_dermatitidis_atcc_26199	EnsemblFungi	447095	BD_ATCC26199_V2	GCA_000166155.1	2010-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	25	
+Blastomyces dermatitidis ER-3	blastomyces_dermatitidis_er_3	EnsemblFungi	559297	ASM352v2	GCA_000003525.2	2009-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	6	
+Blastomyces gilchristii SLH14081	blastomyces_gilchristii_slh14081	EnsemblFungi	559298	ASM385v2	GCA_000003855.2	2009-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	119	
+Blumeria graminis	blumeria_graminis	EnsemblFungi	546991	EF 1	GCA_000151065.1	2013-04-BluGen	N	N	Y	N	N	blumeria_graminis_core_31_84_1	1	
+Blumeria graminis f. sp. tritici 96224	blumeria_graminis_f_sp_tritici_96224	EnsemblFungi	1268274	Bgt_454_newbler_assembly	GCA_000418435.1	2014-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	24	
+Botryobasidium botryosum FD-172 SS1	botryobasidium_botryosum_fd_172_ss1	EnsemblFungi	930990	Botbo1	GCA_000697705.1	2014-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	46	
+Botrytis cinerea B05.10	botrytis_cinerea	EnsemblFungi	332648	ASM15095v2	GCA_000832945.1	2015-01-WUR	N	N	Y	N	N	botrytis_cinerea_core_31_84_3	1	
+Botrytis cinerea BcDW1	botrytis_cinerea_bcdw1	EnsemblFungi	1290391	BcDW1	GCA_000349525.1	2013-03-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	72	
+Botrytis cinerea T4	botrytis_cinerea_t4	EnsemblFungi	999810	BotFuc_Mar2011	GCA_000227075.1	2011-03-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	139	
+Brettanomyces bruxellensis AWRI1499	brettanomyces_bruxellensis_awri1499	EnsemblFungi	1124627	AWRI1499_v1.0	GCA_000259595.1	2012-04-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	8	
+Byssochlamys spectabilis No. 5	byssochlamys_spectabilis_no_5	EnsemblFungi	1356009	PVAR5_assembly01	GCA_000497085.1	2013-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	18	
+Candida albicans 12C	candida_albicans_12c	EnsemblFungi	1094981	Cand_albi_12C_V2	GCA_000773845.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	5	
+Candida albicans 19F	candida_albicans_19f	EnsemblFungi	1094987	Cand_albi_19F_V2	GCA_000775445.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	30	
+Candida albicans Ca6	candida_albicans_ca6	EnsemblFungi	1165368	Cand_albi_Ca6_V2	GCA_000784695.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	27	
+Candida albicans GC75	candida_albicans_gc75	EnsemblFungi	1094988	Cand_albi_GC75_V1	GCA_000773735.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	243	
+Candida albicans L26	candida_albicans_l26	EnsemblFungi	1094982	Cand_albi_L26_V2	GCA_000775455.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	21	
+Candida albicans P34048	candida_albicans_p34048	EnsemblFungi	1094991	Cand_albi_P34048_V1	GCA_000775465.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	25	
+Candida albicans P37005	candida_albicans_p37005	EnsemblFungi	1094985	Cand_albi_P37005_V2	GCA_000773745.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	239	
+Candida albicans P37037	candida_albicans_p37037	EnsemblFungi	1094992	Cand_albi_P37037_V1	GCA_000773825.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	236	
+Candida albicans P37039	candida_albicans_p37039	EnsemblFungi	1094993	Cand_albi_P37039_V1	GCA_000784515.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	6	
+Candida albicans P57055	candida_albicans_p57055	EnsemblFungi	1094996	Cand_albi_P57055_V1	GCA_000775505.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	35	
+Candida albicans P57072	candida_albicans_p57072	EnsemblFungi	1094990	Cand_albi_P57072_V1	GCA_000773805.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	240	
+Candida albicans P60002	candida_albicans_p60002	EnsemblFungi	1094986	Cand_albi_P60002_V1	GCA_000784525.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	8	
+Candida albicans P75010	candida_albicans_p75010	EnsemblFungi	1094994	Cand_albi_P75010_V1	GCA_000784575.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	20	
+Candida albicans P75016	candida_albicans_p75016	EnsemblFungi	1094995	Cand_albi_P75016_V1	GCA_000784595.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	4	
+Candida albicans P75063	candida_albicans_p75063	EnsemblFungi	1094997	Cand_albi_P75063_V1	GCA_000775525.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	7	
+Candida albicans P76055	candida_albicans_p76055	EnsemblFungi	1094998	Cand_albi_P76055_V1	GCA_000784505.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	2	
+Candida albicans P76067	candida_albicans_p76067	EnsemblFungi	1094999	Cand_albi_P76067_V1	GCA_000784495.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	32	
+Candida albicans P78042	candida_albicans_p78042	EnsemblFungi	1095000	Cand_albi_P78042_V1	GCA_000784615.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	38	
+Candida albicans P78048	candida_albicans_p78048	EnsemblFungi	1094989	Cand_albi_P78048_V1	GCA_000773725.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	235	
+Candida albicans P87	candida_albicans_p87	EnsemblFungi	1094984	Cand_albi_P87_V2	GCA_000774085.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	16	
+Candida albicans P94015	candida_albicans_p94015	EnsemblFungi	1094983	Cand_albi_P94015_V1	GCA_000773755.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	1	
+Candida albicans SC5314	candida_albicans_sc5314	EnsemblFungi	237561	ASM18296v2	GCA_000182965.2	2004-05-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	153	
+Candida albicans SC5314 (GCA_000784635)	candida_albicans_sc5314_gca_000784635	EnsemblFungi	237561	Cand_albi_SC5314_V4	GCA_000784635.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	24	
+Candida albicans SC5314 (GCA_000784655)	candida_albicans_sc5314_gca_000784655	EnsemblFungi	237561	Cand_albi_SC5314_V3	GCA_000784655.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	37	
+Candida albicans WO-1	candida_albicans_wo_1	EnsemblFungi	294748	ASM14944v2	GCA_000149445.2	2006-03-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	128	
+Candida auris	candida_auris	EnsemblFungi	498019	ASM118947v1	GCA_001189475.1	2015-08-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	44	
+Candida dubliniensis CD36	candida_dubliniensis_cd36	EnsemblFungi	573826	ASM2694v1	GCA_000026945.1	2009-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	140	
+Candida glabrata	candida_glabrata	EnsemblFungi	5478	ASM254v2	GCA_000002545.2	2004-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	127	
+Candida maltosa Xu316	candida_maltosa_xu316	EnsemblFungi	1245528	Cmaltosa_v01	GCA_000344705.1	2013-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	110	
+Candida orthopsilosis Co 90-125	candida_orthopsilosis_co_90_125	EnsemblFungi	1136231	ASM31587v1	GCA_000315875.1	2012-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	177	
+Candida tenuis ATCC 10573	candida_tenuis_atcc_10573	EnsemblFungi	590646	Candida tenuis v1.0	GCA_000223465.1	2011-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	130	
+Candida tropicalis MYA-3404	candida_tropicalis_mya_3404	EnsemblFungi	294747	ASM633v2	GCA_000006335.2	2009-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	10	
+Capronia coronata CBS 617.96	capronia_coronata_cbs_617_96	EnsemblFungi	1182541	Capr_coro_CBS_617_96_V1	GCA_000585585.1	2014-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	33	
+Capronia epimyces CBS 606.96	capronia_epimyces_cbs_606_96	EnsemblFungi	1182542	Capr_epim_CBS_606_96_V1	GCA_000585565.1	2014-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	81	
+Capronia semiimmersa	capronia_semiimmersa	EnsemblFungi	5601	Capr_semi_CBS27337_V1	GCA_000835435.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	142	
+Ceratocystis platani	ceratocystis_platani	EnsemblFungi	88771	ASM97888v1	GCA_000978885.1	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	176	
+Chaetomium globosum CBS 148.51	chaetomium_globosum_cbs_148_51	EnsemblFungi	306901	ASM14336v1	GCA_000143365.1	2005-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	138	
+Chaetomium thermophilum var. thermophilum DSM 1495	chaetomium_thermophilum_var_thermophilum_dsm_1495	EnsemblFungi	759272	CTHT_3.0	GCA_000221225.1	2011-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	26	
+Cladophialophora bantiana CBS 173.52	cladophialophora_bantiana_cbs_173_52	EnsemblFungi	1442370	Clad_bant_CBS_173_52_V1	GCA_000835475.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	152	
+Cladophialophora carrionii CBS 160.54	cladophialophora_carrionii_cbs_160_54	EnsemblFungi	1279043	Clad_carr_CBS_160_54_V1	GCA_000365165.2	2013-05-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	77	
+Cladophialophora immunda	cladophialophora_immunda	EnsemblFungi	569365	Clad_immu_CBS83496_V1	GCA_000835495.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	59	
+Cladophialophora psammophila CBS 110553	cladophialophora_psammophila_cbs_110553	EnsemblFungi	1182543	Clad_psam_CBS_110553_V1	GCA_000585535.1	2014-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	107	
+Cladophialophora yegresii CBS 114405	cladophialophora_yegresii_cbs_114405	EnsemblFungi	1182544	Clad_yegr_CBS_114405_V1	GCA_000585515.1	2014-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	84	
+Claviceps purpurea 20.1	claviceps_purpurea_20_1	EnsemblFungi	1111077	ASM34735v1	GCA_000347355.1	2012-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	87	
+Clavispora lusitaniae ATCC 42720	clavispora_lusitaniae_atcc_42720	EnsemblFungi	306902	ASM383v1	GCA_000003835.1	2005-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	146	
+Coccidioides immitis H538.4	coccidioides_immitis_h538_4	EnsemblFungi	396776	ASM14981v1	GCA_000149815.1	2006-09-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	15	
+Coccidioides immitis RMSCC 2394	coccidioides_immitis_rmscc_2394	EnsemblFungi	404692	ASM14989v1	GCA_000149895.1	2006-11-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	193	
+Coccidioides immitis RMSCC 3703	coccidioides_immitis_rmscc_3703	EnsemblFungi	454286	ASM15008v1	GCA_000150085.1	2007-07-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	166	
+Coccidioides immitis RS	coccidioides_immitis_rs	EnsemblFungi	246410	ASM14933v2	GCA_000149335.2	2009-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	92	
+Coccidioides posadasii C735 delta SOWgp	coccidioides_posadasii_c735_delta_sowgp	EnsemblFungi	222929	JCVI-cpa1-1.0	GCA_000151335.1	2009-06-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	31	
+Coccidioides posadasii RMSCC 3488	coccidioides_posadasii_rmscc_3488	EnsemblFungi	454284	ASM15005v1	GCA_000150055.1	2007-07-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	231	
+Coccidioides posadasii str. Silveira	coccidioides_posadasii_str_silveira	EnsemblFungi	443226	CPS2	GCA_000170175.2	2011-01-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	89	
+Colletotrichum fioriniae PJ7	colletotrichum_fioriniae_pj7	EnsemblFungi	1445577	CFIO01	GCA_000582985.1	2014-04-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	68	
+Colletotrichum gloeosporioides	colletotrichum_gloeosporioides	EnsemblFungi	1213859	Colletotrichum gloeosporioides Nara gc-5	GCA_000319635.1	2012-12-RIKEN	N	N	Y	N	N	colletotrichum_gloeosporioides_core_31_84_1	1	
+Colletotrichum gloeosporioides Cg-14	colletotrichum_gloeosporioides_cg_14	EnsemblFungi	1237896	Colletotrichum gloeosporioides1	GCA_000446055.1	2013-08-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	142	
+Colletotrichum graminicola	colletotrichum_graminicola	EnsemblFungi	645133	C_graminicola_M1_001_V1	GCA_000149035.1	2011-11-Broad	N	N	Y	N	Y	colletotrichum_graminicola_core_31_84_1	1	
+Colletotrichum higginsianum	colletotrichum_higginsianum	EnsemblFungi	80884	ASM31379v2	GCA_000313795.2	2012-01-Broad	N	N	Y	Y	N	colletotrichum_higginsianum_core_31_84_2	1	
+Colletotrichum orbiculare	colletotrichum_orbiculare	EnsemblFungi	1213857	Corbiculare240422v01	GCA_000350065.1	2013-04-RIKEN	N	N	Y	Y	N	colletotrichum_orbiculare_core_31_84_1	1	
+Colletotrichum sublineola	colletotrichum_sublineola	EnsemblFungi	1173701	ASM69613v1	GCA_000696135.1	2014-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	82	
+Coniophora puteana RWD-64-598 SS2	coniophora_puteana_rwd_64_598_ss2	EnsemblFungi	741705	Conpu1	GCA_000271625.1	2013-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	4	
+Coniosporium apollinis CBS 100218	coniosporium_apollinis_cbs_100218	EnsemblFungi	1168221	Coni_apol_CBS100218 _V1	GCA_000281105.1	2012-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	11	
+Coprinopsis cinerea okayama7#130	coprinopsis_cinerea_okayama7_130	EnsemblFungi	240176	CC3	GCA_000182895.1	2010-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	44	
+Cordyceps militaris CM01	cordyceps_militaris_cm01	EnsemblFungi	983644	CmilitarisCM01_v01	GCA_000225605.1	2011-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	172	
+Cryptococcus gattii 2001/935-1	cryptococcus_gattii_2001_935_1	EnsemblFungi	1334442	Cryp_gatt_2001_935-1_V1	GCA_000835815.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	96	
+Cryptococcus gattii 99/473	cryptococcus_gattii_99_473	EnsemblFungi	1296104	Cryp_gatt_99_473_V1	GCA_000836455.1	2015-03-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	92	
+Cryptococcus gattii CA1014	cryptococcus_gattii_ca1014	EnsemblFungi	1296107	Cryp_gatt_CA1014_V1	GCA_000875795.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	78	
+Cryptococcus gattii CA1280	cryptococcus_gattii_ca1280	EnsemblFungi	1296109	Cryp_gatt_CA1280_V1	GCA_000836335.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	75	
+Cryptococcus gattii CA1873	cryptococcus_gattii_ca1873	EnsemblFungi	1296111	Cryp_gatt_CA1873_V1	GCA_000855695.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	74	
+Cryptococcus gattii CBS 10090	cryptococcus_gattii_cbs_10090	EnsemblFungi	1296101	Cryp_gatt_CBS10090_V1	GCA_000835765.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	81	
+Cryptococcus gattii E566	cryptococcus_gattii_e566	EnsemblFungi	1296102	Cryp_gatt_E566_V1	GCA_000875815.1	2015-03-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	97	
+Cryptococcus gattii EJB2	cryptococcus_gattii_ejb2	EnsemblFungi	1296103	Cryp_gatt_EJB2_V1	GCA_000835745.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	64	
+Cryptococcus gattii IND107	cryptococcus_gattii_ind107	EnsemblFungi	1296105	Cryp_gatt_IND107_V2	GCA_000835755.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	67	
+Cryptococcus gattii LA55	cryptococcus_gattii_la55	EnsemblFungi	1296106	Cryp_gatt_LA55_V1	GCA_000836315.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	76	
+Cryptococcus gattii MMRL2647	cryptococcus_gattii_mmrl2647	EnsemblFungi	1296117	Cryp_gatt_MMRL2647_V2	GCA_000875855.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	70	
+Cryptococcus gattii NT-10	cryptococcus_gattii_nt_10	EnsemblFungi	1296108	Cryp_gatt_NT-10_V1	GCA_000935105.1	2015-03-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	65	
+Cryptococcus gattii R265	cryptococcus_gattii_r265	EnsemblFungi	294750	CNB2	GCA_000149475.3	2015-08-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	56	
+Cryptococcus gattii Ram5	cryptococcus_gattii_ram5	EnsemblFungi	1296110	Cryp_gatt_Ram5_V1	GCA_000836375.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	84	
+Cryptococcus gattii Ru294	cryptococcus_gattii_ru294	EnsemblFungi	1296112	Cryp_gatt_Ru294_V1	GCA_000836355.1	2015-02-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	90	
+Cryptococcus gattii WM276	cryptococcus_gattii_wm276	EnsemblFungi	367775	ASM18594v1	GCA_000185945.1	2011-01-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	25	
+Cryptococcus neoformans	cryptococcus_neoformans	EnsemblFungi	214684	ASM9104v1	GCA_000091045.1	2005-01-JCVI	N	N	Y	N	N	cryptococcus_neoformans_core_31_84_1	1	
+Cryptococcus neoformans var. grubii H99	cryptococcus_neoformans_var_grubii_h99	EnsemblFungi	235443	CNA3	GCA_000149245.3	2012-09-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	49	
+Cryptococcus neoformans var. neoformans B-3501A	cryptococcus_neoformans_var_neoformans_b_3501a	EnsemblFungi	283643	ASM14938v1	GCA_000149385.1	2004-10-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	6	
+Cyberlindnera jadinii	cyberlindnera_jadinii	EnsemblFungi	4903	cj1	GCA_001245095.1	2015-07-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	27	
+Cylindrobasidium torrendii FP15055 ss-10	cylindrobasidium_torrendii_fp15055_ss_10	EnsemblFungi	1314674	Cylto1	GCA_000934385.1	2015-03-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	66	
+Cyphellophora europaea CBS 101466	cyphellophora_europaea_cbs_101466	EnsemblFungi	1220924	Phia_euro_CBS_101466_V1	GCA_000365145.2	2013-05-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	80	
+Dacryopinax sp. DJM-731 SS1	dacryopinax_sp_djm_731_ss1	EnsemblFungi	745407	Dacryopinax sp. DJM 731 SSP1 v1.0	GCA_000292625.1	2013-03-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	1	
+Dactylellina haptotyla CBS 200.50	dactylellina_haptotyla_cbs_200_50	EnsemblFungi	1284197	MHA_v2	GCA_000441935.1	2013-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	32	
+Debaryomyces hansenii CBS767	debaryomyces_hansenii_cbs767	EnsemblFungi	284592	ASM644v2	GCA_000006445.2	2004-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	19	
+Diaporthe ampelina	diaporthe_ampelina	EnsemblFungi	1214573	UCDDA912v1.0	GCA_001006365.1	2015-05-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	236	
+Dichomitus squalens LYAD-421 SS1	dichomitus_squalens_lyad_421_ss1	EnsemblFungi	732165	Dichomitus squalens v1.0	GCA_000275845.1	2013-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	3	
+Diplodia seriata	diplodia_seriata	EnsemblFungi	420778	UCDDS831v0.1	GCA_001006355.1	2015-05-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	238	
+Dothistroma septosporum	dothistroma_septosporum	EnsemblFungi	675120	Dothistroma septosporum NZE10 v1.0	GCA_000340195.1	2013-02-JGI	N	N	Y	N	N	dothistroma_septosporum_core_31_84_1	1	
+Drechslerella stenobrocha 248	drechslerella_stenobrocha_248	EnsemblFungi	1043628	DREv1	GCA_000525045.1	2014-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	178	
+Edhazardia aedis USNM 41457	edhazardia_aedis_usnm_41457	EnsemblFungi	1003232	Edha_aedis_V4b	GCA_000230595.3	2015-08-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	2	
+Emmonsia crescens UAMH 3008	emmonsia_crescens_uamh_3008	EnsemblFungi	1247875	ASM100828v1	GCA_001008285.1	2015-05-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	156	
+Emmonsia parva UAMH 139	emmonsia_parva_uamh_139	EnsemblFungi	1246674	ASM101475v1	GCA_001014755.1	2015-06-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	178	
+Encephalitozoon cuniculi EcunIII-L	encephalitozoon_cuniculi_ecuniii_l	EnsemblFungi	1355160	ECIIIL	GCA_001078035.1	2015-07-ENA	N	N	N	N	N	fungi_microsporidia1_collection_core_31_84_1	23	
+Encephalitozoon cuniculi GB-M1	encephalitozoon_cuniculi_gb_m1	EnsemblFungi	284813	ASM9122v1	GCA_000091225.1	2001-02-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	7	
+Encephalitozoon hellem ATCC 50504	encephalitozoon_hellem_atcc_50504	EnsemblFungi	907965	ASM27781v3	GCA_000277815.3	2012-06-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	3	
+Encephalitozoon intestinalis ATCC 50506	encephalitozoon_intestinalis_atcc_50506	EnsemblFungi	876142	ASM14646v1	GCA_000146465.1	2010-08-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	10	
+Encephalitozoon romaleae SJ-2008	encephalitozoon_romaleae_sj_2008	EnsemblFungi	1178016	ASM28003v2	GCA_000280035.2	2012-07-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	6	
+Endocarpon pusillum Z07020	endocarpon_pusillum_z07020	EnsemblFungi	1263415	EPUS	GCA_000464535.1	2013-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	21	
+Enterocytozoon bieneusi H348	enterocytozoon_bieneusi_h348	EnsemblFungi	481877	ASM20948v1	GCA_000209485.1	2007-12-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	4	
+Eremothecium cymbalariae DBVPG#7215	eremothecium_cymbalariae_dbvpg_7215	EnsemblFungi	931890	ASM23536v1	GCA_000235365.1	2011-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	154	
+Erysiphe necator	erysiphe_necator	EnsemblFungi	52586	ASM79871v1	GCA_000798715.1	2014-12-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	19	
+Escovopsis weberi	escovopsis_weberi	EnsemblFungi	150374	ASM127849v1	GCA_001278495.1	2015-09-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	28	
+Eutypa lata UCREL1	eutypa_lata_ucrel1	EnsemblFungi	1287681	UCREL1V03	GCA_000349385.1	2013-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	65	
+Exophiala aquamarina CBS 119918	exophiala_aquamarina_cbs_119918	EnsemblFungi	1182545	Exop_aqua_CBS_119918_V1	GCA_000709125.1	2014-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	222	
+Exophiala dermatitidis NIH/UT8656	exophiala_dermatitidis_nih_ut8656	EnsemblFungi	858893	Exop_derm_V1	GCA_000230625.1	2011-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	123	
+Exophiala mesophila	exophiala_mesophila	EnsemblFungi	212818	Exop_meso_CBS40295_V1	GCA_000836275.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	108	
+Exophiala oligosperma	exophiala_oligosperma	EnsemblFungi	215243	Exop_olig_CBS72588_V1	GCA_000835515.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	121	
+Exophiala sideris	exophiala_sideris	EnsemblFungi	1016849	Exop_side_CBS121828_V1	GCA_000835395.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	70	
+Exophiala spinifera	exophiala_spinifera	EnsemblFungi	91928	Exop_spin_CBS89968_V1	GCA_000836115.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	44	
+Exophiala xenobiotica	exophiala_xenobiotica	EnsemblFungi	348802	Exop_xeno_CBS118157_V1	GCA_000835505.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	88	
+Fibroporia radiculosa	fibroporia_radiculosa	EnsemblFungi	599839	ASM31352v1	GCA_000313525.1	2012-03-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	36	
+Fistulina hepatica ATCC 64428	fistulina_hepatica_atcc_64428	EnsemblFungi	1128425	Fishe1	GCA_000934395.1	2015-03-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	87	
+Fomitiporia mediterranea MF3/22	fomitiporia_mediterranea_mf3_22	EnsemblFungi	694068	Fomme1	GCA_000271605.1	2013-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	18	
+Fomitopsis pinicola FP-58527 SS1	fomitopsis_pinicola_fp_58527_ss1	EnsemblFungi	743788	Fompi3	GCA_000344655.2	2013-07-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	32	
+Fonsecaea multimorphosa CBS 102226	fonsecaea_multimorphosa_cbs_102226	EnsemblFungi	1442371	Fons_mult_CBS_102226_V1	GCA_000836435.1	2015-03-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	146	
+Fonsecaea pedrosoi CBS 271.37	fonsecaea_pedrosoi_cbs_271_37	EnsemblFungi	1442368	Fons_pedr_CBS_271_37_V1	GCA_000835455.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	71	
+Fusarium fujikuroi	fusarium_fujikuroi	EnsemblFungi	5127	EF 1	GCA_000315255.1	2012-08-JGI	N	N	Y	Y	N	fusarium_fujikuroi_core_31_84_1	1	
+Fusarium fujikuroi (GCA_001023035)	fusarium_fujikuroi_gca_001023035	EnsemblFungi	5127	ASM102303v1	GCA_001023035.1	2015-06-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	249	
+Fusarium fujikuroi (GCA_001023045)	fusarium_fujikuroi_gca_001023045	EnsemblFungi	5127	ASM102304v1	GCA_001023045.1	2015-06-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	12	
+Fusarium fujikuroi (GCA_001023065)	fusarium_fujikuroi_gca_001023065	EnsemblFungi	5127	ASM102306v1	GCA_001023065.1	2015-06-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	226	
+Fusarium graminearum	fusarium_graminearum	EnsemblFungi	5518	RR	GCA_000240135.3	2014-10-RR	Y	N	Y	Y	Y	fusarium_graminearum_core_31_84_4	1	
+Fusarium graminearum (GCA_000599445)	fusarium_graminearum_gca_000599445	EnsemblFungi	5518	CS3005v1	GCA_000599445.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	111	
+Fusarium langsethiae	fusarium_langsethiae	EnsemblFungi	179993	ASM129263v1	GCA_001292635.1	2015-10-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	46	
+Fusarium oxysporum	fusarium_oxysporum	EnsemblFungi	426428	FO2	GCA_000222805.1	2011-02-Broad	Y	N	Y	Y	Y	fusarium_oxysporum_core_31_84_2	1	
+Fusarium oxysporum FOSC 3-a	fusarium_oxysporum_fosc_3_a	EnsemblFungi	909455	FO_FOSC_3_a_V1	GCA_000271745.2	2012-06-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	59	
+Fusarium oxysporum Fo47	fusarium_oxysporum_fo47	EnsemblFungi	660027	FO_Fo47_V1	GCA_000271705.2	2012-06-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	28	
+Fusarium oxysporum f. sp. conglutinans race 2 54008	fusarium_oxysporum_f_sp_conglutinans_race_2_54008	EnsemblFungi	1089457	FO_PHW808_V1	GCA_000260215.2	2012-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	162	
+Fusarium oxysporum f. sp. cubense race 1	fusarium_oxysporum_f_sp_cubense_race_1	EnsemblFungi	1229664	Foc1_1.0	GCA_000350345.1	2013-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	5	
+Fusarium oxysporum f. sp. cubense race 4	fusarium_oxysporum_f_sp_cubense_race_4	EnsemblFungi	1229665	Foc4_1.0	GCA_000350365.1	2013-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	96	
+Fusarium oxysporum f. sp. cubense tropical race 4 54006	fusarium_oxysporum_f_sp_cubense_tropical_race_4_54006	EnsemblFungi	1089451	FO_II5_V1	GCA_000260195.2	2012-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	38	
+Fusarium oxysporum f. sp. lycopersici MN25	fusarium_oxysporum_f_sp_lycopersici_mn25	EnsemblFungi	1080343	FO_MN25_V1	GCA_000259975.2	2012-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	85	
+Fusarium oxysporum f. sp. melonis 26406	fusarium_oxysporum_f_sp_melonis_26406	EnsemblFungi	1089452	FO_melonis_V1	GCA_000260495.2	2012-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	56	
+Fusarium oxysporum f. sp. pisi HDV247	fusarium_oxysporum_f_sp_pisi_hdv247	EnsemblFungi	1080344	FO_HDV247_V1	GCA_000260075.2	2012-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	22	
+Fusarium oxysporum f. sp. radicis-lycopersici 26381	fusarium_oxysporum_f_sp_radicis_lycopersici_26381	EnsemblFungi	1089448	FO_CL57_V1	GCA_000260155.3	2012-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	79	
+Fusarium oxysporum f. sp. raphani 54005	fusarium_oxysporum_f_sp_raphani_54005	EnsemblFungi	1089458	FO_PHW815_V1	GCA_000260235.2	2012-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	48	
+Fusarium oxysporum f. sp. vasinfectum 25433	fusarium_oxysporum_f_sp_vasinfectum_25433	EnsemblFungi	1089449	FO_Cotton_V1	GCA_000260175.2	2012-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	113	
+Fusarium pseudograminearum	fusarium_pseudograminearum	EnsemblFungi	1028729	FP7	GCA_000303195.1	2012-10-CSIRO	N	N	Y	Y	N	fusarium_pseudograminearum_core_31_84_1	1	
+Fusarium solani	fusarium_solani	EnsemblFungi	660122	v2.0	GCA_000151355.1	2009-08-JGI	N	N	Y	Y	Y	fusarium_solani_core_31_84_1	1	
+Fusarium verticillioides	fusarium_verticillioides	EnsemblFungi	334819	ASM14955v1	GCA_000149555.1	2010-12-BROAD	N	N	Y	Y	Y	fusarium_verticillioides_core_31_84_3	1	
+Gaeumannomyces graminis	gaeumannomyces_graminis	EnsemblFungi	644352	Gae_graminis_V2	GCA_000145635.1	2011-11-Broad	N	N	Y	Y	N	gaeumannomyces_graminis_core_31_84_1	1	
+Galerina marginata CBS 339.88	galerina_marginata_cbs_339_88	EnsemblFungi	685588	Galma1	GCA_000697645.1	2014-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	22	
+Gelatoporia subvermispora B	gelatoporia_subvermispora_b	EnsemblFungi	914234	Ceriporiopsis subvermispora B v1.0	GCA_000320605.2	2013-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	47	
+Geotrichum candidum	geotrichum_candidum	EnsemblFungi	1173061	New2.3_08062011	GCA_001402995.1	2014-05-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	33	
+Glarea lozoyensis 74030	glarea_lozoyensis_74030	EnsemblFungi	1104152	LBAGla_1.0	GCA_000238015.2	2011-12-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	114	
+Glarea lozoyensis ATCC 20868	glarea_lozoyensis_atcc_20868	EnsemblFungi	1116229	GLAREA	GCA_000409485.1	2013-06-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	137	
+Gloeophyllum trabeum ATCC 11539	gloeophyllum_trabeum_atcc_11539	EnsemblFungi	670483	Glotr1_1	GCA_000344685.1	2013-03-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	21	
+Grosmannia clavigera kw1407	grosmannia_clavigera_kw1407	EnsemblFungi	655863	Sanger-454-IlluminaPA_2.0	GCA_000143105.2	2011-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	106	
+Gymnopus luxurians FD-317 M1	gymnopus_luxurians_fd_317_m1	EnsemblFungi	944289	Gymlu1	GCA_000827265.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	86	
+Hanseniaspora uvarum DSM 2768	hanseniaspora_uvarum_dsm_2768	EnsemblFungi	1246595	Huva2.0	GCA_000968475.1	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	225	
+Hebeloma cylindrosporum h7	hebeloma_cylindrosporum_h7	EnsemblFungi	686832	Hebeloma cylindrosporum h7 v2.0	GCA_000827355.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	73	
+Heterobasidion irregulare TC 32-1	heterobasidion_irregulare_tc_32_1	EnsemblFungi	747525	Heterobasidion irregulare v2.0	GCA_000320585.2	2014-01-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	29	
+Hirsutella minnesotensis 3608	hirsutella_minnesotensis_3608	EnsemblFungi	1043627	ASM95604v1	GCA_000956045.1	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	243	
+Histoplasma capsulatum G186AR	histoplasma_capsulatum_g186ar	EnsemblFungi	447093	ASM15011v1	GCA_000150115.1	2009-03-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	109	
+Histoplasma capsulatum H143	histoplasma_capsulatum_h143	EnsemblFungi	544712	ASM15103v1	GCA_000151035.1	2009-06-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	135	
+Histoplasma capsulatum H88	histoplasma_capsulatum_h88	EnsemblFungi	544711	ASM15100v2	GCA_000151005.2	2008-09-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	53	
+Histoplasma capsulatum NAm1	histoplasma_capsulatum_nam1	EnsemblFungi	339724	ASM14958v1	GCA_000149585.1	2005-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	117	
+Hydnomerulius pinastri MD-312	hydnomerulius_pinastri_md_312	EnsemblFungi	994086	Hydpi2	GCA_000827185.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	95	
+Hypholoma sublateritium FD-334 SS-4	hypholoma_sublateritium_fd_334_ss_4	EnsemblFungi	945553	Hypsu1	GCA_000827495.1	2015-03-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	88	
+Jaapia argillacea MUCL 33604	jaapia_argillacea_mucl_33604	EnsemblFungi	933084	Jaaar1	GCA_000697665.1	2014-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	45	
+Kazachstania africana CBS 2517	kazachstania_africana_cbs_2517	EnsemblFungi	1071382	Ka_CBS2517	GCA_000304475.1	2012-01-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	75	
+Kazachstania naganishii CBS 8797	kazachstania_naganishii_cbs_8797	EnsemblFungi	1071383	ASM34898v1	GCA_000348985.1	2012-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	57	
+Kluyveromyces lactis	kluyveromyces_lactis	EnsemblFungi	28985	ASM251v1	GCA_000002515.1	2004-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	43	
+Komagataella pastoris	komagataella_pastoris	EnsemblFungi	644223	ASM2700v1	GCA_000027005.1	2009-05-VIB	N	N	Y	N	N	komagataella_pastoris_core_31_84_1	1	
+Komagataella pastoris CBS 7435	komagataella_pastoris_cbs_7435	EnsemblFungi	981350	PicPas_Mar2011	GCA_000223565.1	2011-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	143	
+Kuraishia capsulata CBS 1993	kuraishia_capsulata_cbs_1993	EnsemblFungi	1382522	AUH_PRJEB4427_v1	GCA_000576695.1	2014-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	35	
+Laccaria amethystina LaAM-08-1	laccaria_amethystina_laam_08_1	EnsemblFungi	1095629	Laccaria amethystina LaAM-08-1 v1.0	GCA_000827195.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	69	
+Laccaria bicolor S238N-H82	laccaria_bicolor_s238n_h82	EnsemblFungi	486041	V1.0	GCA_000143565.1	2008-01-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	23	
+Lachancea lanzarotensis	lachancea_lanzarotensis	EnsemblFungi	1245769	LALA0	GCA_000938715.1	2015-01-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	97	
+Lachancea thermotolerans CBS 6340	lachancea_thermotolerans_cbs_6340	EnsemblFungi	559295	ASM14280v1	GCA_000142805.1	2009-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	49	
+Leptosphaeria maculans	leptosphaeria_maculans	EnsemblFungi	985895	ASM23037v1	GCA_000230375.1	2010-11-URGI-INRA	N	N	Y	N	Y	leptosphaeria_maculans_core_31_84_1	1	
+Lichtheimia corymbifera JMRC:FSU:9682	lichtheimia_corymbifera_jmrc_fsu_9682	EnsemblFungi	1263082	454Minimus	GCA_000723665.1	2014-06-ENA	N	N	Y	N	N	fungi_fungiincertaesedis1_collection_core_31_84_1	6	
+Lichtheimia ramosa	lichtheimia_ramosa	EnsemblFungi	688394	Lramosa_hybrid_454_Illumina	GCA_000945115.1	2014-08-ENA	N	N	Y	N	N	fungi_fungiincertaesedis1_collection_core_31_84_1	8	
+Lodderomyces elongisporus NRRL YB-4239	lodderomyces_elongisporus_nrrl_yb_4239	EnsemblFungi	379508	ASM14968v1	GCA_000149685.1	2006-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	27	
+Macrophomina phaseolina MS6	macrophomina_phaseolina_ms6	EnsemblFungi	1126212	MphMS6_1.0	GCA_000302655.1	2012-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	175	
+Madurella mycetomatis	madurella_mycetomatis	EnsemblFungi	100816	ASM127576v1	GCA_001275765.1	2015-09-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	32	
+Magnaporthe oryzae	magnaporthe_oryzae	EnsemblFungi	242507	MG8	GCA_000002495.2	2011-03-Broad	N	N	Y	Y	Y	magnaporthe_oryzae_core_31_84_8	1	
+Magnaporthe poae	magnaporthe_poae	EnsemblFungi	644358	Mag_poae_ATCC_64411_V1	GCA_000193285.1	2011-03-Broad	N	N	Y	Y	N	magnaporthe_poae_core_31_84_1	1	
+Malassezia pachydermatis	malassezia_pachydermatis	EnsemblFungi	77020	Malafurf	GCA_001278385.1	2015-09-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	103	
+Malassezia sympodialis ATCC 42132	malassezia_sympodialis_atcc_42132	EnsemblFungi	1230383	ASM34930v2	GCA_000349305.2	2013-03-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	15	
+Marssonina brunnea f. sp. 'multigermtubi' MB_m1	marssonina_brunnea_f_sp_multigermtubi_mb_m1	EnsemblFungi	1072389	ASM29877v1	GCA_000298775.1	2012-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	62	
+Melampsora larici-populina	melampsora_laricipopulina	EnsemblFungi	747676	v1.0	GCA_000204055.1	2011-04-JGI	N	N	Y	N	Y	melampsora_laricipopulina_core_31_84_1	1	
+Metarhizium acridum CQMa 102	metarhizium_acridum_cqma_102	EnsemblFungi	655827	MetAcr_May2010	GCA_000187405.1	2011-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	124	
+Metarhizium album ARSEF 1941	metarhizium_album_arsef_1941	EnsemblFungi	1081103	MAM 1.0 for version 1 of the Metarhizium album genome	GCA_000804445.1	2014-12-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	22	
+Metarhizium anisopliae	metarhizium_anisopliae	EnsemblFungi	5530	Metarhizium anisopliae	GCA_000739145.1	2014-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	220	
+Metarhizium anisopliae ARSEF 23	metarhizium_anisopliae_arsef_23	EnsemblFungi	655844	MAA 2.0	GCA_000187425.2	2014-12-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	129	
+Metarhizium anisopliae ARSEF 549	metarhizium_anisopliae_arsef_549	EnsemblFungi	1276135	MAN_1.0	GCA_000814975.1	2015-01-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	14	
+Metarhizium anisopliae BRIP 53284	metarhizium_anisopliae_brip_53284	EnsemblFungi	1291519	ASM42698v1	GCA_000426985.1	2015-03-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	90	
+Metarhizium anisopliae BRIP 53293	metarhizium_anisopliae_brip_53293	EnsemblFungi	1291518	ASM42696v1	GCA_000426965.1	2015-03-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	122	
+Metarhizium brunneum ARSEF 3297	metarhizium_brunneum_arsef_3297	EnsemblFungi	1276141	MBR_1.0	GCA_000814965.1	2015-01-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	23	
+Metarhizium guizhouense ARSEF 977	metarhizium_guizhouense_arsef_977	EnsemblFungi	1276136	MGU_1.0	GCA_000814955.1	2015-01-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	9	
+Metarhizium majus ARSEF 297	metarhizium_majus_arsef_297	EnsemblFungi	1276143	MAJ_1.0	GCA_000814945.1	2015-01-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	15	
+Metarhizium robertsii	metarhizium_robertsii	EnsemblFungi	568076	MR2010_11_27	GCA_000591435.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	66	
+Meyerozyma guilliermondii ATCC 6260	meyerozyma_guilliermondii_atcc_6260	EnsemblFungi	294746	ASM14942v1	GCA_000149425.1	2005-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	17	
+Microbotryum violaceum	microbotryum_violaceum	EnsemblFungi	683840	M_violaceum_V1	GCA_000166175.1	2010-11-Broad	N	N	Y	N	N	microbotryum_violaceum_core_31_84_1	1	
+Microsporum gypseum CBS 118893	microsporum_gypseum_cbs_118893	EnsemblFungi	535722	MS_CBS118893	GCA_000150975.2	2008-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	180	
+Millerozyma farinosa CBS 7064	millerozyma_farinosa_cbs_7064	EnsemblFungi	559304	ASM31589v1	GCA_000315895.1	2011-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	133	
+Mitosporidium daphniae	mitosporidium_daphniae	EnsemblFungi	1485682	UGP1.0	GCA_000760515.1	2014-10-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	19	
+Mixia osmundae IAM 14324	mixia_osmundae_iam_14324	EnsemblFungi	764103	Mosmundae_2.0	GCA_000241205.2	2011-11-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	52	
+Mixia osmundae IAM 14324 (GCA_000708205)	mixia_osmundae_iam_14324_gca_000708205	EnsemblFungi	764103	Mixia osmundae v1.0	GCA_000708205.1	2014-06-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	61	
+Moniliophthora perniciosa FA553	moniliophthora_perniciosa_fa553	EnsemblFungi	554373	ASM18302v1	GCA_000183025.1	2008-12-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	19	
+Moniliophthora roreri MCA 2997	moniliophthora_roreri_mca_2997	EnsemblFungi	1381753	M_roreri_MCA_2997_v1	GCA_000488995.1	2013-10-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	34	
+Mortierella verticillata NRRL 6337	mortierella_verticillata_nrrl_6337	EnsemblFungi	1069443	Mort_vert_NRRL_6337_V1	GCA_000739165.1	2014-08-ENA	N	N	Y	N	N	fungi_fungiincertaesedis1_collection_core_31_84_1	5	
+Mucor ambiguus	mucor_ambiguus	EnsemblFungi	91626	ASM95059v1	GCA_000950595.1	2015-02-ENA	N	N	Y	N	N	fungi_fungiincertaesedis1_collection_core_31_84_1	3	
+Mucor circinelloides f. circinelloides 1006PhL	mucor_circinelloides_f_circinelloides_1006phl	EnsemblFungi	1220926	Muco_sp_1006Ph_V1	GCA_000401635.1	2013-06-ENA	N	N	Y	N	N	fungi_fungiincertaesedis1_collection_core_31_84_1	1	
+Myceliophthora thermophila ATCC 42464	myceliophthora_thermophila_atcc_42464	EnsemblFungi	573729	ASM22609v1	GCA_000226095.1	2011-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	51	
+Naumovozyma castellii CBS 4309	naumovozyma_castellii_cbs_4309	EnsemblFungi	1064592	ASM23734v1	GCA_000237345.1	2011-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	46	
+Naumovozyma dairenensis CBS 421	naumovozyma_dairenensis_cbs_421	EnsemblFungi	1071378	ASM22711v2	GCA_000227115.2	2011-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	61	
+Nematocida parisii ERTm1	nematocida_parisii_ertm1	EnsemblFungi	881290	Nema_parisii_ERTm1_V3	GCA_000250985.1	2012-05-ENA	N	N	N	N	N	fungi_microsporidia1_collection_core_31_84_1	8	
+Nematocida parisii ERTm3	nematocida_parisii_ertm3	EnsemblFungi	935791	Nema_parisii_ERTm3_V1	GCA_000190615.1	2011-03-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	18	
+Nematocida sp. 1 ERTm2	nematocida_sp_1_ertm2	EnsemblFungi	944018	Nema_parisii_ERTm2_V1	GCA_000250695.1	2012-03-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	13	
+Nematocida sp. 1 ERTm6	nematocida_sp_1_ertm6	EnsemblFungi	1138374	Nema_sp_1_ERTm6_V2	GCA_000738915.1	2014-08-ENA	N	N	N	N	N	fungi_microsporidia1_collection_core_31_84_1	21	
+Neofusicoccum parvum UCRNP2	neofusicoccum_parvum_ucrnp2	EnsemblFungi	1287680	UCRNP2V3	GCA_000385595.1	2013-05-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	184	
+Neonectria ditissima	neonectria_ditissima	EnsemblFungi	78410	R0905_v2.0	GCA_001306435.1	2015-10-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	34	
+Neosartorya fischeri	neosartorya_fischeri	EnsemblFungi	331117	TIGR	GCA_000149645.1	2005-11-CADRE	N	N	Y	N	N	neosartorya_fischeri_core_31_84_1	1	
+Neosartorya udagawae	neosartorya_udagawae	EnsemblFungi	91492	Aud_assembly01	GCA_001078395.1	2015-08-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	31	
+Neurospora crassa	neurospora_crassa	EnsemblFungi	367110	ASM18292v1	GCA_000182925.1	2009-12-Broad	N	Y	Y	Y	N	neurospora_crassa_core_31_84_1	1	
+Neurospora crassa (GCA_000786625)	neurospora_crassa_gca_000786625	EnsemblFungi	5141	Neucr_trp3_1	GCA_000786625.1	2014-12-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	28	
+Neurospora tetrasperma FGSC 2508	neurospora_tetrasperma_fgsc_2508	EnsemblFungi	510951	v2.0	GCA_000213175.1	2011-06-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	100	
+Neurospora tetrasperma FGSC 2509	neurospora_tetrasperma_fgsc_2509	EnsemblFungi	510952	v1.0	GCA_000213195.1	2011-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	39	
+Nosema apis BRL 01	nosema_apis_brl_01	EnsemblFungi	1037528	NapisBRLv01	GCA_000447185.1	2013-08-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	15	
+Nosema bombycis CQ1	nosema_bombycis_cq1	EnsemblFungi	578461	NosBomCQ1_v1.0	GCA_000383075.1	2013-05-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	9	
+Nosema ceranae	nosema_ceranae	EnsemblFungi	40302	ASM98816v1	GCA_000988165.1	2015-05-ENA	N	N	N	N	N	fungi_microsporidia1_collection_core_31_84_1	22	
+Nosema ceranae BRL01	nosema_ceranae_brl01	EnsemblFungi	578460	ASM18298v1	GCA_000182985.1	2009-06-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	11	
+Ogataea parapolymorpha DL-1	ogataea_parapolymorpha_dl_1	EnsemblFungi	871575	Hansenula_2	GCA_000187245.3	2014-05-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	186	
+Oidiodendron maius Zn	oidiodendron_maius_zn	EnsemblFungi	913774	Oidiodendron maius Zn v1.0	GCA_000827325.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	79	
+Ophiocordyceps sinensis CO18	ophiocordyceps_sinensis_co18	EnsemblFungi	911162	ASM44836v1	GCA_000448365.1	2013-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	155	
+Ophiocordyceps unilateralis	ophiocordyceps_unilateralis	EnsemblFungi	268505	ASM127257v1	GCA_001272575.1	2015-09-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	35	
+Ophiostoma piceae UAMH 11346	ophiostoma_piceae_uamh_11346	EnsemblFungi	1262450	Opiceae_UAMHv01	GCA_000410735.1	2013-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	83	
+Ordospora colligata OC4	ordospora_colligata_oc4	EnsemblFungi	1354746	ASM80326v1	GCA_000803265.1	2014-12-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	20	
+Paracoccidioides brasiliensis Pb03	paracoccidioides_brasiliensis_pb03	EnsemblFungi	482561	Paracocci_br_Pb03_V2	GCA_000150475.2	2014-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	148	
+Paracoccidioides brasiliensis Pb18	paracoccidioides_brasiliensis_pb18	EnsemblFungi	502780	Paracocci_br_Pb18_V2	GCA_000150735.2	2014-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	74	
+Paracoccidioides lutzii Pb01	paracoccidioides_lutzii_pb01	EnsemblFungi	502779	Paracocci_br_Pb01_V2	GCA_000150705.2	2014-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	121	
+Parasitella parasitica	parasitella_parasitica	EnsemblFungi	35722	PP.v1	GCA_000938895.1	2015-01-ENA	N	N	Y	N	N	fungi_fungiincertaesedis1_collection_core_31_84_1	4	
+Paxillus involutus ATCC 200175	paxillus_involutus_atcc_200175	EnsemblFungi	664439	Paxillus involutus ATCC 200175 v1.0	GCA_000827475.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	77	
+Paxillus rubicundulus Ve08.2h10	paxillus_rubicundulus_ve08_2h10	EnsemblFungi	930991	Paxillus rubicundulus Ve08.2h10 v1.0	GCA_000827395.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	80	
+Penicillium brasilianum	penicillium_brasilianum	EnsemblFungi	104259	Pbras_Allpaths-LG	GCA_001048715.1	2015-05-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	239	
+Penicillium camemberti FM 013	penicillium_camemberti_fm_013	EnsemblFungi	1429867	PCAMFM013_20131106	GCA_000513335.1	2013-12-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	245	
+Penicillium digitatum PHI26	penicillium_digitatum_phi26	EnsemblFungi	1170229	PdigPHI26_v1	GCA_000315665.1	2012-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	73	
+Penicillium digitatum Pd1	penicillium_digitatum_pd1	EnsemblFungi	1170230	PdigPd1_v1	GCA_000315645.2	2012-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	34	
+Penicillium expansum	penicillium_expansum	EnsemblFungi	27334	PEX1	GCA_000769755.1	2014-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	237	
+Penicillium expansum (GCA_000769735)	penicillium_expansum_gca_000769735	EnsemblFungi	27334	ASM76973v1	GCA_000769735.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	241	
+Penicillium expansum (GCA_000769745)	penicillium_expansum_gca_000769745	EnsemblFungi	27334	ASM76974v1	GCA_000769745.1	2014-11-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	245	
+Penicillium italicum	penicillium_italicum	EnsemblFungi	40296	ASM76976v1	GCA_000769765.1	2014-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	242	
+Penicillium nordicum	penicillium_nordicum	EnsemblFungi	229535	ASM127859v1	GCA_001278595.1	2015-09-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	42	
+Penicillium oxalicum 114-2	penicillium_oxalicum_114_2	EnsemblFungi	933388	pde_v1.0	GCA_000346795.1	2013-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	150	
+Penicillium roqueforti FM164	penicillium_roqueforti_fm164	EnsemblFungi	1365484	PROQFM164_20130607	GCA_000513255.1	2013-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	171	
+Penicillium rubens Wisconsin 54-1255	penicillium_rubens_wisconsin_54_1255	EnsemblFungi	500485	PenChr_Nov2007	GCA_000226395.1	2008-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	120	
+Penicillium solitum	penicillium_solitum	EnsemblFungi	60172	ASM95277v1	GCA_000952775.1	2015-03-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	66	
+Pestalotiopsis fici W106-1	pestalotiopsis_fici_w106_1	EnsemblFungi	1229662	PFICI	GCA_000516985.1	2014-01-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	76	
+Phaeoacremonium minimum UCRPA7	phaeoacremonium_minimum_ucrpa7	EnsemblFungi	1286976	UCRPA7V03	GCA_000392275.1	2013-05-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	170	
+Phaeomoniella chlamydospora	phaeomoniella_chlamydospora	EnsemblFungi	158046	UCRPA7V1.0	GCA_001006345.1	2015-05-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	10	
+Phaeosphaeria nodorum	phaeosphaeria_nodorum	EnsemblFungi	321614	ASM14691v1	GCA_000146915.1	2007-08-ENA	N	N	Y	N	Y	phaeosphaeria_nodorum_core_31_84_1	1	
+Phanerochaete carnosa HHB-10118-sp	phanerochaete_carnosa_hhb_10118_sp	EnsemblFungi	650164	Phanerochaete carnosa HHB-10118-Sp v1.0	GCA_000300595.1	2012-10-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	48	
+Phialophora attae	phialophora_attae	EnsemblFungi	1664694	ASM129925v1	GCA_001299255.1	2015-10-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	40	
+Phlebiopsis gigantea 11061_1 CR5-6	phlebiopsis_gigantea_11061_1_cr5_6	EnsemblFungi	745531	Phlgi1	GCA_000832265.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	85	
+Pichia kudriavzevii	pichia_kudriavzevii	EnsemblFungi	4909	ASM76445v1	GCA_000764455.1	2014-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	238	
+Piloderma croceum F 1598	piloderma_croceum_f_1598	EnsemblFungi	765440	Piloderma croceum F 1598 v1.0	GCA_000827315.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	71	
+Piriformospora indica DSM 11827	piriformospora_indica_dsm_11827	EnsemblFungi	1109443	ASM31354v1	GCA_000313545.1	2011-11-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	33	
+Pisolithus microcarpus 441	pisolithus_microcarpus_441	EnsemblFungi	765257	Pisolithus microcarpus 441 v1.0	GCA_000827275.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	79	
+Pisolithus tinctorius Marx 270	pisolithus_tinctorius_marx_270	EnsemblFungi	870435	Pisolithus tinctorius Marx 270 v1.0	GCA_000827335.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	91	
+Pleurotus ostreatus PC15	pleurotus_ostreatus_pc15	EnsemblFungi	1137138	PleosPC15_2	GCA_000697685.1	2014-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	40	
+Plicaturopsis crispa FD-325 SS-3	plicaturopsis_crispa_fd_325_ss_3	EnsemblFungi	944288	Plicr1	GCA_000827205.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	82	
+Pneumocystis murina B123	pneumocystis_murina_b123	EnsemblFungi	1069680	Pneumo_murina_B123_V2	GCA_000349005.1	2013-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	134	
+Podospora anserina S mat+	podospora_anserina_s_mat_	EnsemblFungi	515849	ASM22654v1	GCA_000226545.1	2008-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	1	
+Postia placenta Mad-698-R	postia_placenta_mad_698_r	EnsemblFungi	561896	Postia placenta V1.0	GCA_000006255.1	2009-01-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	31	
+Pseudocercospora fijiensis CIRAD86	pseudocercospora_fijiensis_cirad86	EnsemblFungi	383855	Mycfi2	GCA_000340215.1	2013-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	98	
+Pseudogymnoascus destructans 20631-21	pseudogymnoascus_destructans_20631_21	EnsemblFungi	658429	Geom_destructans_V1	GCA_000184105.1	2010-12-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	9	
+Pseudogymnoascus pannorum VKM F-103	pseudogymnoascus_pannorum_vkm_f_103	EnsemblFungi	1420912	DG30	GCA_000750895.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	34	
+Pseudogymnoascus pannorum VKM F-3557	pseudogymnoascus_pannorum_vkm_f_3557	EnsemblFungi	1437433	DG3	GCA_000750665.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	207	
+Pseudogymnoascus pannorum VKM F-3775	pseudogymnoascus_pannorum_vkm_f_3775	EnsemblFungi	1420901	DG4	GCA_000750715.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	33	
+Pseudogymnoascus pannorum VKM F-3808	pseudogymnoascus_pannorum_vkm_f_3808	EnsemblFungi	1391699	DG1	GCA_000750675.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	201	
+Pseudogymnoascus pannorum VKM F-4246	pseudogymnoascus_pannorum_vkm_f_4246	EnsemblFungi	1420902	DG5	GCA_000750735.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	29	
+Pseudogymnoascus pannorum VKM F-4281 (FW-2241)	pseudogymnoascus_pannorum_vkm_f_4281_fw_2241_	EnsemblFungi	1420906	DG6	GCA_000750745.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	13	
+Pseudogymnoascus pannorum VKM F-4513 (FW-928)	pseudogymnoascus_pannorum_vkm_f_4513_fw_928_	EnsemblFungi	1420907	DG7	GCA_000750755.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	26	
+Pseudogymnoascus pannorum VKM F-4514 (FW-929)	pseudogymnoascus_pannorum_vkm_f_4514_fw_929_	EnsemblFungi	1420908	DG8	GCA_000750795.1	2013-12-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	17	
+Pseudogymnoascus pannorum VKM F-4515 (FW-2607)	pseudogymnoascus_pannorum_vkm_f_4515_fw_2607_	EnsemblFungi	1420909	DG10	GCA_000750805.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	39	
+Pseudogymnoascus pannorum VKM F-4516 (FW-969)	pseudogymnoascus_pannorum_vkm_f_4516_fw_969_	EnsemblFungi	1420910	DG11	GCA_000750815.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	10	
+Pseudogymnoascus pannorum VKM F-4517 (FW-2822)	pseudogymnoascus_pannorum_vkm_f_4517_fw_2822_	EnsemblFungi	1420911	DG13	GCA_000750875.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	12	
+Pseudogymnoascus pannorum VKM F-4518 (FW-2643)	pseudogymnoascus_pannorum_vkm_f_4518_fw_2643_	EnsemblFungi	1420913	DG36	GCA_000750925.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	11	
+Pseudogymnoascus pannorum VKM F-4519 (FW-2642)	pseudogymnoascus_pannorum_vkm_f_4519_fw_2642_	EnsemblFungi	1420914	DG38	GCA_000750935.1	2014-09-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	3	
+Pseudogymnoascus pannorum VKM F-4520 (FW-2644)	pseudogymnoascus_pannorum_vkm_f_4520_fw_2644_	EnsemblFungi	1420915	DG39	GCA_000750995.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	31	
+Pseudozyma antarctica	pseudozyma_antarctica	EnsemblFungi	84753	ASM74776v1	GCA_000747765.1	2014-09-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	57	
+Pseudozyma aphidis DSM 70725	pseudozyma_aphidis_dsm_70725	EnsemblFungi	1391700	PseuAph1.0	GCA_000517465.1	2014-01-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	35	
+Pseudozyma brasiliensis GHG001	pseudozyma_brasiliensis_ghg001	EnsemblFungi	1365824	PSEUBRA1	GCA_000497045.1	2013-11-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	11	
+Pseudozyma hubeiensis SY62	pseudozyma_hubeiensis_sy62	EnsemblFungi	1305764	ASM40351v1	GCA_000403515.1	2013-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	7	
+Puccinia graminis	puccinia_graminis	EnsemblFungi	418459	ASM14992v1	GCA_000149925.1	2007-01-Broad	Y	Y	Y	Y	N	puccinia_graminis_core_31_84_1	1	
+Puccinia graminis Ug99	puccinia_graminisug99	EnsemblFungi	1040990	v1		2014-04-Broad	Y	N	N	N	N	puccinia_graminisug99_core_31_84_1	1	
+Puccinia sorghi	puccinia_sorghi	EnsemblFungi	27349	ASM126337v1	GCA_001263375.1	2015-08-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	101	
+Puccinia striiformis f. sp. tritici PST-78	puccinia_striiformis_f_sp_tritici_pst_78	EnsemblFungi	1165861	P_striiformis_V1	GCA_001191645.1	2015-08-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	102	
+Puccinia triticina	puccinia_triticina	EnsemblFungi	630390	ASM15152v1	GCA_000151525.1	2011-05-Broad	N	N	Y	Y	Y	puccinia_triticina_core_31_84_1	1	
+Punctularia strigosozonata HHB-11173 SS5	punctularia_strigosozonata_hhb_11173_ss5	EnsemblFungi	741275	Punctularia strigosozonata v1.0	GCA_000264995.1	2013-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	13	
+Pyrenophora teres	pyrenophora_teres	EnsemblFungi	861557	PyrTer_1.0	GCA_000166005.1	2010-11-ACNFP	N	N	Y	N	N	pyrenophora_teres_core_31_84_1	1	
+Pyrenophora tritici-repentis	pyrenophora_triticirepentis	EnsemblFungi	426418	ASM14998v1	GCA_000149985.1	2007-04-Broad	N	N	Y	N	N	pyrenophora_triticirepentis_core_31_84_1	1	
+Pyronema omphalodes CBS 100304	pyronema_omphalodes_cbs_100304	EnsemblFungi	1076935	Pcon_v1	GCA_000981605.1	2013-09-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	235	
+Rasamsonia emersonii CBS 393.64	rasamsonia_emersonii_cbs_393_64	EnsemblFungi	1408163	ASM96859v1	GCA_000968595.1	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	242	
+Rhinocladiella mackenziei CBS 650.93	rhinocladiella_mackenziei_cbs_650_93	EnsemblFungi	1442369	Rhin_mack_CBS_650_93_V1	GCA_000835555.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	153	
+Rhizoctonia solani	rhizoctonia_solani	EnsemblFungi	456999	AG22IIIB	GCA_001286725.1	2015-08-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	106	
+Rhizoctonia solani 123E	rhizoctonia_solani_123e	EnsemblFungi	1423351	Rhizoctonia solani 123E v1	GCA_000715385.1	2014-06-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	58	
+Rhizoctonia solani AG-1 IA	rhizoctonia_solani_ag_1_ia	EnsemblFungi	983506	Rhisol_AG1IA_1.0	GCA_000334115.1	2013-01-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	38	
+Rhizoctonia solani AG-1 IB	rhizoctonia_solani_ag_1_ib	EnsemblFungi	1108050	ASM35025v1	GCA_000350255.1	2013-03-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	8	
+Rhizoctonia solani AG-8 WAC10335	rhizoctonia_solani_ag_8_wac10335	EnsemblFungi	1287689	RSAG8-1.V1	GCA_000695385.1	2014-05-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	16	
+Rhizophagus irregularis DAOM 181602	rhizophagus_irregularis_daom_181602	EnsemblFungi	747089	Gloin1	GCA_000439145.2	2013-07-ENA	N	N	Y	N	N	fungi_glomeromycota1_collection_core_31_84_1	2	
+Rhizophagus irregularis DAOM 197198w	rhizophagus_irregularis_daom_197198w	EnsemblFungi	1432141	Rir	GCA_000597685.1	2014-04-ENA	N	N	N	N	N	fungi_glomeromycota1_collection_core_31_84_1	1	
+Rhizopus delemar RA 99-880	rhizopus_delemar_ra_99_880	EnsemblFungi	246409	RO3	GCA_000149305.1	2005-09-ENA	N	N	Y	N	N	fungi_fungiincertaesedis1_collection_core_31_84_1	7	
+Rhodosporidium toruloides	rhodosporidium_toruloides	EnsemblFungi	5286	IFO0880_HGAP3_v1	GCA_001255795.1	2015-07-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	107	
+Rhodosporidium toruloides NP11	rhodosporidium_toruloides_np11	EnsemblFungi	1130832	RHOziaDV1.0	GCA_000320785.2	2013-04-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	12	
+Rhodotorula glutinis ATCC 204091	rhodotorula_glutinis_atcc_204091	EnsemblFungi	1001064	R.glutinis2	GCA_000222205.2	2014-01-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	30	
+Rozella allomycis CSF55	rozella_allomycis_csf55	EnsemblFungi	988480	Rozella_k41_t100	GCA_000442015.1	2013-08-ENA	N	N	Y	N	N	fungi_rozellomycota1_collection_core_31_84_1	1	
+Saccharomyces arboricola H-6	saccharomyces_arboricola_h_6	EnsemblFungi	1160507	SacArb1.0	GCA_000292725.1	2012-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	45	
+Saccharomyces cerevisiae	saccharomyces_cerevisiae	EnsemblFungi	559292	R64-1-1	GCA_000146045.2	2011-09-SGD	Y	Y	Y	Y	Y	saccharomyces_cerevisiae_core_31_84_4	1	
+Saccharomyces cerevisiae (GCA_000091065)	saccharomyces_cerevisiae_gca_000091065	EnsemblFungi	4932	ASM9106v2	GCA_000091065.2	1992-03-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	58	
+Saccharomyces cerevisiae AWRI796	saccharomyces_cerevisiae_awri796	EnsemblFungi	764097	ScAWRI796_v01	GCA_000190195.1	2011-02-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	104	
+Saccharomyces cerevisiae CEN.PK113-7D	saccharomyces_cerevisiae_cen_pk113_7d	EnsemblFungi	889517	ASM26988v1	GCA_000269885.1	2012-06-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	7	
+Saccharomyces cerevisiae EC1118	saccharomyces_cerevisiae_ec1118	EnsemblFungi	643680	ASM21897v1	GCA_000218975.1	2009-09-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	169	
+Saccharomyces cerevisiae FostersB	saccharomyces_cerevisiae_fostersb	EnsemblFungi	764102	ScFostersB_v01	GCA_000190255.1	2011-02-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	3	
+Saccharomyces cerevisiae FostersO	saccharomyces_cerevisiae_fosterso	EnsemblFungi	764101	ScFostersO_v01	GCA_000326005.1	2011-02-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	136	
+Saccharomyces cerevisiae Kyokai no. 7	saccharomyces_cerevisiae_kyokai_no_7	EnsemblFungi	721032	K7_1.0	GCA_000260735.1	2011-09-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	94	
+Saccharomyces cerevisiae Lalvin QA23	saccharomyces_cerevisiae_lalvin_qa23	EnsemblFungi	764098	ScQA23_v01	GCA_000325965.1	2011-02-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	40	
+Saccharomyces cerevisiae P283	saccharomyces_cerevisiae_p283	EnsemblFungi	1177187	P283	GCA_000568295.1	2014-02-EnsemblFungi	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	173	
+Saccharomyces cerevisiae P301	saccharomyces_cerevisiae_p301	EnsemblFungi	1182968	p301	GCA_000568055.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	132	
+Saccharomyces cerevisiae R008	saccharomyces_cerevisiae_r008	EnsemblFungi	1182966	R008	GCA_000568005.1	2014-02-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	91	
+Saccharomyces cerevisiae R103	saccharomyces_cerevisiae_r103	EnsemblFungi	1182967	R103	GCA_000568365.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	176	
+Saccharomyces cerevisiae RM11-1a	saccharomyces_cerevisiae_rm11_1a	EnsemblFungi	285006	ASM14936v1	GCA_000149365.1	2005-07-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	60	
+Saccharomyces cerevisiae VL3	saccharomyces_cerevisiae_vl3	EnsemblFungi	764100	ScVL3_v01	GCA_000190235.1	2011-02-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	164	
+Saccharomyces cerevisiae Vin13	saccharomyces_cerevisiae_vin13	EnsemblFungi	764099	ScVIN13_v01	GCA_000190215.1	2011-02-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	112	
+Saccharomyces cerevisiae YJM1078	saccharomyces_cerevisiae_yjm1078	EnsemblFungi	1296266	Sc_YJM1078_v1	GCA_000975645.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	244	
+Saccharomyces cerevisiae YJM1083	saccharomyces_cerevisiae_yjm1083	EnsemblFungi	1292971	Sc_YJM1083_v1	GCA_000975675.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	237	
+Saccharomyces cerevisiae YJM1129	saccharomyces_cerevisiae_yjm1129	EnsemblFungi	1293430	Sc_YJM1129_v1	GCA_000975705.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	216	
+Saccharomyces cerevisiae YJM1133	saccharomyces_cerevisiae_yjm1133	EnsemblFungi	1294333	Sc_YJM1133_v1	GCA_000976695.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	201	
+Saccharomyces cerevisiae YJM1190	saccharomyces_cerevisiae_yjm1190	EnsemblFungi	1294334	Sc_YJM1190_v1	GCA_000976725.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	19	
+Saccharomyces cerevisiae YJM1199	saccharomyces_cerevisiae_yjm1199	EnsemblFungi	1294335	Sc_YJM1199_v1	GCA_000976755.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	2	
+Saccharomyces cerevisiae YJM1202	saccharomyces_cerevisiae_yjm1202	EnsemblFungi	1294336	Sc_YJM1202_v1	GCA_000976785.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	182	
+Saccharomyces cerevisiae YJM1208	saccharomyces_cerevisiae_yjm1208	EnsemblFungi	1294337	Sc_YJM1208_v1	GCA_000976815.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	13	
+Saccharomyces cerevisiae YJM1242	saccharomyces_cerevisiae_yjm1242	EnsemblFungi	1294338	Sc_YJM1242_v1	GCA_000976845.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	213	
+Saccharomyces cerevisiae YJM1244	saccharomyces_cerevisiae_yjm1244	EnsemblFungi	1294339	Sc_YJM1244_v1	GCA_000976875.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	227	
+Saccharomyces cerevisiae YJM1248	saccharomyces_cerevisiae_yjm1248	EnsemblFungi	1294340	Sc_YJM1248_v1	GCA_000976905.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	205	
+Saccharomyces cerevisiae YJM1250	saccharomyces_cerevisiae_yjm1250	EnsemblFungi	1294341	Sc_YJM1250_v1	GCA_000976935.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	219	
+Saccharomyces cerevisiae YJM1252	saccharomyces_cerevisiae_yjm1252	EnsemblFungi	1294342	Sc_YJM1252_v1	GCA_000976965.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	155	
+Saccharomyces cerevisiae YJM1273	saccharomyces_cerevisiae_yjm1273	EnsemblFungi	1294343	Sc_YJM1273_v1	GCA_000976995.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	247	
+Saccharomyces cerevisiae YJM1304	saccharomyces_cerevisiae_yjm1304	EnsemblFungi	1294344	Sc_YJM1304_v1	GCA_000977025.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	159	
+Saccharomyces cerevisiae YJM1307	saccharomyces_cerevisiae_yjm1307	EnsemblFungi	1294345	Sc_YJM1307_v1	GCA_000977055.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	172	
+Saccharomyces cerevisiae YJM1311	saccharomyces_cerevisiae_yjm1311	EnsemblFungi	1294346	Sc_YJM1311_v1	GCA_000977085.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	187	
+Saccharomyces cerevisiae YJM1326	saccharomyces_cerevisiae_yjm1326	EnsemblFungi	1294347	Sc_YJM1326_v1	GCA_000977115.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	17	
+Saccharomyces cerevisiae YJM1332	saccharomyces_cerevisiae_yjm1332	EnsemblFungi	1294348	Sc_YJM1332_v1	GCA_000977145.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	173	
+Saccharomyces cerevisiae YJM1336	saccharomyces_cerevisiae_yjm1336	EnsemblFungi	1294349	Sc_YJM1336_v1	GCA_000977175.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	184	
+Saccharomyces cerevisiae YJM1338	saccharomyces_cerevisiae_yjm1338	EnsemblFungi	1294350	Sc_YJM1338_v1	GCA_000977205.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	6	
+Saccharomyces cerevisiae YJM1341	saccharomyces_cerevisiae_yjm1341	EnsemblFungi	1294351	Sc_YJM1341_v1	GCA_000977235.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	163	
+Saccharomyces cerevisiae YJM1342	saccharomyces_cerevisiae_yjm1342	EnsemblFungi	1294352	Sc_YJM1342_v1	GCA_000977265.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	157	
+Saccharomyces cerevisiae YJM1355	saccharomyces_cerevisiae_yjm1355	EnsemblFungi	1294353	Sc_YJM1355_v1	GCA_000977295.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	200	
+Saccharomyces cerevisiae YJM1356	saccharomyces_cerevisiae_yjm1356	EnsemblFungi	1294354	Sc_YJM1356_v1	GCA_000977325.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	4	
+Saccharomyces cerevisiae YJM1381	saccharomyces_cerevisiae_yjm1381	EnsemblFungi	1294355	Sc_YJM1381_v1	GCA_000977355.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	215	
+Saccharomyces cerevisiae YJM1383	saccharomyces_cerevisiae_yjm1383	EnsemblFungi	1294356	Sc_YJM1383_v1	GCA_000977385.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	24	
+Saccharomyces cerevisiae YJM1385	saccharomyces_cerevisiae_yjm1385	EnsemblFungi	1294357	Sc_YJM1385_v1	GCA_000977415.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	199	
+Saccharomyces cerevisiae YJM1386	saccharomyces_cerevisiae_yjm1386	EnsemblFungi	1294358	Sc_YJM1386_v1	GCA_000977445.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	7	
+Saccharomyces cerevisiae YJM1387	saccharomyces_cerevisiae_yjm1387	EnsemblFungi	1294359	Sc_YJM1387_v1	GCA_000977475.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	16	
+Saccharomyces cerevisiae YJM1388	saccharomyces_cerevisiae_yjm1388	EnsemblFungi	1294360	Sc_YJM1388_v1	GCA_000977505.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	250	
+Saccharomyces cerevisiae YJM1389	saccharomyces_cerevisiae_yjm1389	EnsemblFungi	1294361	Sc_YJM1389_v1	GCA_000977535.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	158	
+Saccharomyces cerevisiae YJM1399	saccharomyces_cerevisiae_yjm1399	EnsemblFungi	1294362	Sc_YJM1399_v1	GCA_000977565.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	167	
+Saccharomyces cerevisiae YJM1400	saccharomyces_cerevisiae_yjm1400	EnsemblFungi	1294363	Sc_YJM1400_v1	GCA_000977595.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	224	
+Saccharomyces cerevisiae YJM1401	saccharomyces_cerevisiae_yjm1401	EnsemblFungi	1294364	Sc_YJM1401_v1	GCA_000977625.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	174	
+Saccharomyces cerevisiae YJM1402	saccharomyces_cerevisiae_yjm1402	EnsemblFungi	1294365	Sc_YJM1402_v1	GCA_000977655.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	208	
+Saccharomyces cerevisiae YJM1415	saccharomyces_cerevisiae_yjm1415	EnsemblFungi	1294366	Sc_YJM1415_v1	GCA_000977685.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	22	
+Saccharomyces cerevisiae YJM1417	saccharomyces_cerevisiae_yjm1417	EnsemblFungi	1294367	Sc_YJM1417_v1	GCA_000977715.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	20	
+Saccharomyces cerevisiae YJM1418	saccharomyces_cerevisiae_yjm1418	EnsemblFungi	1294368	Sc_YJM1418_v1	GCA_000977745.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	168	
+Saccharomyces cerevisiae YJM1419	saccharomyces_cerevisiae_yjm1419	EnsemblFungi	1294369	Sc_YJM1419_v1	GCA_000977775.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	206	
+Saccharomyces cerevisiae YJM1433	saccharomyces_cerevisiae_yjm1433	EnsemblFungi	1294370	Sc_YJM1433_v1	GCA_000977805.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	14	
+Saccharomyces cerevisiae YJM1434	saccharomyces_cerevisiae_yjm1434	EnsemblFungi	1294371	Sc_YJM1434_v1	GCA_000977835.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	177	
+Saccharomyces cerevisiae YJM1439	saccharomyces_cerevisiae_yjm1439	EnsemblFungi	1294372	Sc_YJM1439_v1	GCA_000977865.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	26	
+Saccharomyces cerevisiae YJM1443	saccharomyces_cerevisiae_yjm1443	EnsemblFungi	1294373	Sc_YJM1443_v1	GCA_000977895.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	165	
+Saccharomyces cerevisiae YJM1444	saccharomyces_cerevisiae_yjm1444	EnsemblFungi	1294374	Sc_YJM1444_v1	GCA_000977925.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	214	
+Saccharomyces cerevisiae YJM1447	saccharomyces_cerevisiae_yjm1447	EnsemblFungi	1294375	Sc_YJM1447_v1	GCA_000977955.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	164	
+Saccharomyces cerevisiae YJM1450	saccharomyces_cerevisiae_yjm1450	EnsemblFungi	1294376	Sc_YJM1450_v1	GCA_000977985.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	234	
+Saccharomyces cerevisiae YJM1460	saccharomyces_cerevisiae_yjm1460	EnsemblFungi	1294377	Sc_YJM1460_v1	GCA_000978015.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	240	
+Saccharomyces cerevisiae YJM1463	saccharomyces_cerevisiae_yjm1463	EnsemblFungi	1294378	Sc_YJM1463_v1	GCA_000978045.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	241	
+Saccharomyces cerevisiae YJM1477	saccharomyces_cerevisiae_yjm1477	EnsemblFungi	1294379	Sc_YJM1477_v1	GCA_000978075.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	186	
+Saccharomyces cerevisiae YJM1478	saccharomyces_cerevisiae_yjm1478	EnsemblFungi	1294380	Sc_YJM1478_v1	GCA_000978105.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	207	
+Saccharomyces cerevisiae YJM1479	saccharomyces_cerevisiae_yjm1479	EnsemblFungi	1294381	Sc_YJM1479_v1	GCA_000978135.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	212	
+Saccharomyces cerevisiae YJM1526	saccharomyces_cerevisiae_yjm1526	EnsemblFungi	1294382	Sc_YJM1526_v1	GCA_000978165.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	18	
+Saccharomyces cerevisiae YJM1527	saccharomyces_cerevisiae_yjm1527	EnsemblFungi	1294383	Sc_YJM1527_v1	GCA_000978195.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	185	
+Saccharomyces cerevisiae YJM1549	saccharomyces_cerevisiae_yjm1549	EnsemblFungi	1294384	Sc_YJM1549_v1	GCA_000978225.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	195	
+Saccharomyces cerevisiae YJM1573	saccharomyces_cerevisiae_yjm1573	EnsemblFungi	1294385	Sc_YJM1573_v1	GCA_000978255.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	196	
+Saccharomyces cerevisiae YJM1574	saccharomyces_cerevisiae_yjm1574	EnsemblFungi	1294386	Sc_YJM1574_v1	GCA_000978285.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	217	
+Saccharomyces cerevisiae YJM1592	saccharomyces_cerevisiae_yjm1592	EnsemblFungi	1294387	Sc_YJM1592_v1	GCA_000978315.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	23	
+Saccharomyces cerevisiae YJM1615	saccharomyces_cerevisiae_yjm1615	EnsemblFungi	1294388	Sc_YJM1615_v1	GCA_000978345.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	228	
+Saccharomyces cerevisiae YJM189	saccharomyces_cerevisiae_yjm189	EnsemblFungi	1294303	Sc_YJM189_v1	GCA_000975735.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	248	
+Saccharomyces cerevisiae YJM193	saccharomyces_cerevisiae_yjm193	EnsemblFungi	1294304	Sc_YJM193_v1	GCA_000975765.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	3	
+Saccharomyces cerevisiae YJM195	saccharomyces_cerevisiae_yjm195	EnsemblFungi	1294305	Sc_YJM195_v1	GCA_000975585.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	210	
+Saccharomyces cerevisiae YJM244	saccharomyces_cerevisiae_yjm244	EnsemblFungi	1294306	Sc_YJM244_v1	GCA_000975615.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	5	
+Saccharomyces cerevisiae YJM248	saccharomyces_cerevisiae_yjm248	EnsemblFungi	1294307	Sc_YJM248_v1	GCA_000975795.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	9	
+Saccharomyces cerevisiae YJM270	saccharomyces_cerevisiae_yjm270	EnsemblFungi	1294308	Sc_YJM270_v1	GCA_000975825.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	188	
+Saccharomyces cerevisiae YJM271	saccharomyces_cerevisiae_yjm271	EnsemblFungi	1294309	Sc_YJM271_v1	GCA_000975855.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	192	
+Saccharomyces cerevisiae YJM320	saccharomyces_cerevisiae_yjm320	EnsemblFungi	947042	Sc_YJM320_v1	GCA_000975885.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	21	
+Saccharomyces cerevisiae YJM326	saccharomyces_cerevisiae_yjm326	EnsemblFungi	468558	Sc_YJM326_v1	GCA_000975915.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	162	
+Saccharomyces cerevisiae YJM428	saccharomyces_cerevisiae_yjm428	EnsemblFungi	947044	Sc_YJM428_v1	GCA_000975945.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	189	
+Saccharomyces cerevisiae YJM450	saccharomyces_cerevisiae_yjm450	EnsemblFungi	1294310	Sc_YJM450_v1	GCA_000975975.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	209	
+Saccharomyces cerevisiae YJM451	saccharomyces_cerevisiae_yjm451	EnsemblFungi	502869	Sc_YJM451_v1	GCA_000976005.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	232	
+Saccharomyces cerevisiae YJM453	saccharomyces_cerevisiae_yjm453	EnsemblFungi	1294311	Sc_YJM453_v1	GCA_000976035.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	175	
+Saccharomyces cerevisiae YJM456	saccharomyces_cerevisiae_yjm456	EnsemblFungi	1294312	Sc_YJM456_v1	GCA_000976065.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	221	
+Saccharomyces cerevisiae YJM470	saccharomyces_cerevisiae_yjm470	EnsemblFungi	1294313	Sc_YJM470_v1	GCA_000976095.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	230	
+Saccharomyces cerevisiae YJM541	saccharomyces_cerevisiae_yjm541	EnsemblFungi	1294314	Sc_YJM541_v1	GCA_000976125.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	154	
+Saccharomyces cerevisiae YJM554	saccharomyces_cerevisiae_yjm554	EnsemblFungi	1294315	Sc_YJM554_v1	GCA_000976155.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	171	
+Saccharomyces cerevisiae YJM555	saccharomyces_cerevisiae_yjm555	EnsemblFungi	1294316	Sc_YJM555_v1	GCA_000976185.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	211	
+Saccharomyces cerevisiae YJM627	saccharomyces_cerevisiae_yjm627	EnsemblFungi	1294317	Sc_YJM627_v1	GCA_000976215.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	169	
+Saccharomyces cerevisiae YJM681	saccharomyces_cerevisiae_yjm681	EnsemblFungi	1294318	Sc_YJM681_v1	GCA_000976245.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	160	
+Saccharomyces cerevisiae YJM682	saccharomyces_cerevisiae_yjm682	EnsemblFungi	1294319	Sc_YJM682_v1	GCA_000976275.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	222	
+Saccharomyces cerevisiae YJM683	saccharomyces_cerevisiae_yjm683	EnsemblFungi	1294320	Sc_YJM683_v1	GCA_000976305.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	203	
+Saccharomyces cerevisiae YJM689	saccharomyces_cerevisiae_yjm689	EnsemblFungi	1294321	Sc_YJM689_v1	GCA_000976335.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	223	
+Saccharomyces cerevisiae YJM693	saccharomyces_cerevisiae_yjm693	EnsemblFungi	1294322	Sc_YJM693_v1	GCA_000976365.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	191	
+Saccharomyces cerevisiae YJM789	saccharomyces_cerevisiae_yjm789	EnsemblFungi	307796	ASM18143v1	GCA_000181435.1	2007-07-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	41	
+Saccharomyces cerevisiae YJM969	saccharomyces_cerevisiae_yjm969	EnsemblFungi	1294323	Sc_YJM969_v1	GCA_000976395.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	25	
+Saccharomyces cerevisiae YJM972	saccharomyces_cerevisiae_yjm972	EnsemblFungi	1294324	Sc_YJM972_v1	GCA_000976425.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	220	
+Saccharomyces cerevisiae YJM975	saccharomyces_cerevisiae_yjm975	EnsemblFungi	1294325	Sc_YJM975_v1	GCA_000976455.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	194	
+Saccharomyces cerevisiae YJM978	saccharomyces_cerevisiae_yjm978	EnsemblFungi	1294326	Sc_YJM978_v1	GCA_000976485.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	233	
+Saccharomyces cerevisiae YJM981	saccharomyces_cerevisiae_yjm981	EnsemblFungi	1294327	Sc_YJM981_v1	GCA_000976515.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	161	
+Saccharomyces cerevisiae YJM984	saccharomyces_cerevisiae_yjm984	EnsemblFungi	1294328	Sc_YJM984_v1	GCA_000976545.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	202	
+Saccharomyces cerevisiae YJM987	saccharomyces_cerevisiae_yjm987	EnsemblFungi	1294329	Sc_YJM987_v1	GCA_000976575.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	197	
+Saccharomyces cerevisiae YJM990	saccharomyces_cerevisiae_yjm990	EnsemblFungi	1294330	Sc_YJM990_v1	GCA_000976605.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	190	
+Saccharomyces cerevisiae YJM993	saccharomyces_cerevisiae_yjm993	EnsemblFungi	1294331	Sc_YJM993_v1	GCA_000662435.1	2014-05-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	167	
+Saccharomyces cerevisiae YJM996	saccharomyces_cerevisiae_yjm996	EnsemblFungi	1294332	Sc_YJM996_v1	GCA_000976665.1	2015-02-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	204	
+Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7	saccharomyces_cerevisiae_x_saccharomyces_kudriavzevii_vin7	EnsemblFungi	1095631	ASM32610v1	GCA_000326105.1	2012-01-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	147	
+Saccharomyces eubayanus	saccharomyces_eubayanus	EnsemblFungi	1080349	SEUB3.0	GCA_001298625.1	2015-09-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	37	
+Saccharomyces kudriavzevii IFO 1802	saccharomyces_kudriavzevii_ifo_1802	EnsemblFungi	226230	Saccharomyces_kudriavzevii_strain_IFO1802_v1.0	GCA_000167075.2	2011-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	126	
+Saccharomyces sp. 'boulardii'	saccharomyces_sp_boulardii_	EnsemblFungi	252598	ASM129837v2	GCA_001298375.2	2015-09-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	45	
+Saccharomycetaceae sp. 'Ashbya aceri'	saccharomycetaceae_sp_ashbya_aceri_	EnsemblFungi	566037	ASM41222v2	GCA_000412225.2	2013-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	54	
+Saitoella complicata NRRL Y-17804	saitoella_complicata_nrrl_y_17804	EnsemblFungi	698492	Scomplicata_3.0	GCA_000227095.3	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	198	
+Scedosporium apiospermum	scedosporium_apiospermum	EnsemblFungi	563466	ScApio1.0	GCA_000732125.1	2014-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	218	
+Scheffersomyces stipitis CBS 6054	scheffersomyces_stipitis_cbs_6054	EnsemblFungi	322104	ASM20916v1	GCA_000209165.1	2007-02-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	97	
+Schizophyllum commune H4-8	schizophyllum_commune_h4_8	EnsemblFungi	578458	v1.0	GCA_000143185.1	2010-07-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	26	
+Schizopora paradoxa	schizopora_paradoxa	EnsemblFungi	27342	Schpa1	GCA_001020605.1	2015-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	99	
+Schizosaccharomyces cryophilus	schizosaccharomyces_cryophilus	EnsemblFungi	653667	SCY4	GCA_000004155.2	2013-08-Broad	N	N	Y	Y	N	schizosaccharomyces_cryophilus_core_31_84_2	1	
+Schizosaccharomyces japonicus	schizosaccharomyces_japonicus	EnsemblFungi	402676	SJ5	GCA_000149845.2	2013-08-Broad	N	N	Y	Y	N	schizosaccharomyces_japonicus_core_31_84_2	1	
+Schizosaccharomyces octosporus	schizosaccharomyces_octosporus	EnsemblFungi	483514	SO6	GCA_000150505.2	2013-07-Broad	N	N	Y	Y	N	schizosaccharomyces_octosporus_core_31_84_2	1	
+Schizosaccharomyces pombe	schizosaccharomyces_pombe	EnsemblFungi	284812	ASM294v2	GCA_000002945.2	2015-11-PomBase	Y	Y	Y	Y	Y	schizosaccharomyces_pombe_core_31_84_2	1	
+Scleroderma citrinum Foug A	scleroderma_citrinum_foug_a	EnsemblFungi	1036808	Scleroderma citrinum Foug A v1.0	GCA_000827425.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	89	
+Sclerotinia borealis F-4157	sclerotinia_borealis_f_4157	EnsemblFungi	1432307	SBOR_1	GCA_000503235.1	2014-05-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	183	
+Sclerotinia sclerotiorum	sclerotinia_sclerotiorum	EnsemblFungi	665079	ASM14694v1	GCA_000146945.1	2005-09-Broad	N	N	Y	N	N	sclerotinia_sclerotiorum_core_31_84_1	1	
+Serendipita vermifera MAFF 305830	serendipita_vermifera_maff_305830	EnsemblFungi	933852	Sebacina vermifera MAFF 305830 v1.0	GCA_000827415.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	83	
+Serpula lacrymans var. lacrymans S7.3	serpula_lacrymans_var_lacrymans_s7_3	EnsemblFungi	936435	v1.0	GCA_000218725.1	2011-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	9	
+Serpula lacrymans var. lacrymans S7.9	serpula_lacrymans_var_lacrymans_s7_9	EnsemblFungi	578457	v1.0	GCA_000218685.1	2011-06-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	20	
+Setosphaeria turcica Et28A	setosphaeria_turcica_et28a	EnsemblFungi	671987	Setospaeria trucica Et28A v1.0	GCA_000359705.1	2013-04-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	67	
+Sordaria macrospora	sordaria_macrospora	EnsemblFungi	771870	ASM18280v2	GCA_000182805.2	2011-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	144	
+Spathaspora passalidarum NRRL Y-27907	spathaspora_passalidarum_nrrl_y_27907	EnsemblFungi	619300	Spathaspora passalidarum v2.0	GCA_000223485.1	2011-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	125	
+Sphaerobolus stellatus SS14	sphaerobolus_stellatus_ss14	EnsemblFungi	990650	Sphst1	GCA_000827215.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	94	
+Sphaerulina musiva SO2202	sphaerulina_musiva_so2202	EnsemblFungi	692275	Septoria musiva SO2202 v1.0	GCA_000320565.2	2013-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	93	
+Spizellomyces punctatus DAOM BR117	spizellomyces_punctatus_daom_br117	EnsemblFungi	645134	ASM18256v2	GCA_000182565.2	2015-07-ENA	N	N	Y	N	N	fungi_chytridiomycota1_collection_core_31_84_1	2	
+Sporidiobolus salmonicolor	sporidiobolus_salmonicolor	EnsemblFungi	5005	SPOSA68321A01	GCA_001373355.1	2015-04-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	104	
+Sporisorium reilianum	sporisorium_reilianum	EnsemblFungi	999809	ASM23024v1	GCA_000230245.1	2010-12-MIPS	N	N	Y	Y	N	sporisorium_reilianum_core_31_84_1	1	
+Sporisorium scitamineum	sporisorium_scitamineum	EnsemblFungi	49012	Sporisorium scitamineum	GCA_001243155.1	2015-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	105	
+Sporothrix brasiliensis 5110	sporothrix_brasiliensis_5110	EnsemblFungi	1398154	S_brasiliensis_5110_v1	GCA_000820605.1	2015-01-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	116	
+Sporothrix schenckii 1099-18	sporothrix_schenckii_1099_18	EnsemblFungi	1397361	S_schenckii_v1	GCA_000961545.1	2015-04-ENA	N	N	N	N	N	fungi_ascomycota2_collection_core_31_84_1	170	
+Sporothrix schenckii ATCC 58251	sporothrix_schenckii_atcc_58251	EnsemblFungi	1391915	Spor_sche_ATCC58251_V1	GCA_000474925.1	2013-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	131	
+Spraguea lophii 42_110	spraguea_lophii_42_110	EnsemblFungi	1358809	Sprlop1.0	GCA_000430065.1	2013-07-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	14	
+Stachybotrys chartarum IBT 40288	stachybotrys_chartarum_ibt_40288	EnsemblFungi	1283842	S40288v1	GCA_000732765.1	2014-04-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	231	
+Stachybotrys chartarum IBT 40293	stachybotrys_chartarum_ibt_40293	EnsemblFungi	1280524	S40293v1	GCA_000732565.1	2014-07-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	194	
+Stachybotrys chartarum IBT 7711	stachybotrys_chartarum_ibt_7711	EnsemblFungi	1280523	S7711v1	GCA_000730325.1	2014-07-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	230	
+Stachybotrys chlorohalonata IBT 40285	stachybotrys_chlorohalonata_ibt_40285	EnsemblFungi	1283841	S40285v1	GCA_000732775.1	2014-07-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	198	
+Stemphylium lycopersici	stemphylium_lycopersici	EnsemblFungi	183478	ASM119154v1	GCA_001191545.1	2015-08-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	36	
+Stereum hirsutum FP-91666 SS1	stereum_hirsutum_fp_91666_ss1	EnsemblFungi	721885	Stehi1	GCA_000264905.1	2013-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	41	
+Suillus luteus UH-Slu-Lm8-n1	suillus_luteus_uh_slu_lm8_n1	EnsemblFungi	930992	Suilu1	GCA_000827255.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	72	
+Talaromyces cellulolyticus	talaromyces_cellulolyticus	EnsemblFungi	1472165	TcelY94_1.0	GCA_000829775.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	76	
+Talaromyces islandicus	talaromyces_islandicus	EnsemblFungi	28573	PIS	GCA_000985935.1	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	179	
+Talaromyces marneffei ATCC 18224	talaromyces_marneffei_atcc_18224	EnsemblFungi	441960	JCVI-PMFA1-2.0	GCA_000001985.1	2008-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	70	
+Talaromyces marneffei PM1	talaromyces_marneffei_pm1	EnsemblFungi	1077442	ASM75011v1	GCA_000750115.1	2014-09-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	226	
+Talaromyces stipitatus ATCC 10500	talaromyces_stipitatus_atcc_10500	EnsemblFungi	441959	JCVI-TSTA1-3.0	GCA_000003125.1	2008-12-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	47	
+Tetrapisispora blattae CBS 6284	tetrapisispora_blattae_cbs_6284	EnsemblFungi	1071380	ASM31591v1	GCA_000315915.1	2012-05-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	15	
+Tetrapisispora phaffii CBS 4417	tetrapisispora_phaffii_cbs_4417	EnsemblFungi	1071381	ASM23690v1	GCA_000236905.1	2011-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	179	
+Thielavia terrestris NRRL 8126	thielavia_terrestris_nrrl_8126	EnsemblFungi	578455	ASM22611v1	GCA_000226115.1	2011-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	30	
+Thielaviopsis punctulata	thielaviopsis_punctulata	EnsemblFungi	72032	ASM96861v1	GCA_000968615.1	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	246	
+Tilletiaria anomala UBC 951	tilletiaria_anomala_ubc_951	EnsemblFungi	1037660	Tilletiaria anomala UBC 951 v1.0	GCA_000711695.1	2014-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	60	
+Tolypocladium ophioglossoides CBS 100239	tolypocladium_ophioglossoides_cbs_100239	EnsemblFungi	1163406	Tophv1.0	GCA_001189435.1	2015-08-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	29	
+Torrubiella hemipterigena	torrubiella_hemipterigena	EnsemblFungi	1531966	Allpaths-LG	GCA_000825705.1	2014-11-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	109	
+Torulaspora delbrueckii	torulaspora_delbrueckii	EnsemblFungi	4950	ASM24337v1	GCA_000243375.1	2011-12-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	42	
+Trachipleistophora hominis	trachipleistophora_hominis	EnsemblFungi	72359	ASM31613v1	GCA_000316135.1	2013-01-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	1	
+Trametes cinnabarina	trametes_cinnabarina	EnsemblFungi	5643	BN946	GCA_000765035.1	2014-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	63	
+Trametes versicolor FP-101664 SS1	trametes_versicolor_fp_101664_ss1	EnsemblFungi	717944	Trametes versicolor v1.0	GCA_000271585.1	2013-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	43	
+Tremella mesenterica DSM 1558	tremella_mesenterica_dsm_1558	EnsemblFungi	578456	Treme1	GCA_000271645.1	2013-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	17	
+Trichoderma atroviride IMI 206040	trichoderma_atroviride_imi_206040	EnsemblFungi	452589	TRIAT v2.0	GCA_000171015.2	2011-11-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	182	
+Trichoderma harzianum	trichoderma_harzianum	EnsemblFungi	5544	ASM98886v1	GCA_000988865.1	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	218	
+Trichoderma reesei	trichoderma_reesei	EnsemblFungi	431241	v2.0	GCA_000167675.2	2011-07-JGI	N	N	Y	Y	N	trichoderma_reesei_core_31_84_2	1	
+Trichoderma reesei RUT C-30	trichoderma_reesei_rut_c_30	EnsemblFungi	1344414	TrireRUTC30_1	GCA_000513815.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	12	
+Trichoderma virens	trichoderma_virens	EnsemblFungi	413071	ASM17099v1	GCA_000170995.2	2011-11-JGI	N	N	Y	Y	N	trichoderma_virens_core_31_84_2	1	
+Trichophyton equinum CBS 127.97	trichophyton_equinum_cbs_127_97	EnsemblFungi	559882	ASM15117v1	GCA_000151175.1	2008-10-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	36	
+Trichophyton interdigitale H6	trichophyton_interdigitale_h6	EnsemblFungi	1215336	Tric_rubr_H6_V2	GCA_000616785.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	181	
+Trichophyton interdigitale MR816	trichophyton_interdigitale_mr816	EnsemblFungi	1215338	Tric_inte_MR816_V1	GCA_000622975.1	2014-04-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	63	
+Trichophyton rubrum CBS 100081	trichophyton_rubrum_cbs_100081	EnsemblFungi	1215328	Tric_fish_CBS_100081_V1	GCA_000616805.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	64	
+Trichophyton rubrum CBS 118892	trichophyton_rubrum_cbs_118892	EnsemblFungi	559305	ASM15142v1	GCA_000151425.1	2009-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	71	
+Trichophyton rubrum CBS 202.88	trichophyton_rubrum_cbs_202_88	EnsemblFungi	1215334	Tric_raub_CBS_202_88_V2	GCA_000616985.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	152	
+Trichophyton rubrum CBS 288.86	trichophyton_rubrum_cbs_288_86	EnsemblFungi	1215330	Tric_fish_CBS_288_86_V1	GCA_000616825.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	88	
+Trichophyton rubrum CBS 289.86	trichophyton_rubrum_cbs_289_86	EnsemblFungi	1215329	Tric_kane_CBS_289_86_V1	GCA_000616845.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	160	
+Trichophyton rubrum CBS 735.88	trichophyton_rubrum_cbs_735_88	EnsemblFungi	1215332	Tric_megn_CBS_735_88_V1	GCA_000616965.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	52	
+Trichophyton rubrum D6	trichophyton_rubrum_d6	EnsemblFungi	1215335	Tric_rubr_D6_V1	GCA_000622995.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	55	
+Trichophyton rubrum MR1448	trichophyton_rubrum_mr1448	EnsemblFungi	1215339	Tric_rubr_M1448_V1	GCA_000616905.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	69	
+Trichophyton rubrum MR1459	trichophyton_rubrum_mr1459	EnsemblFungi	1215341	Tric_rubr_MR1459_V1	GCA_000616945.1	2009-08-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	50	
+Trichophyton rubrum MR850	trichophyton_rubrum_mr850	EnsemblFungi	1215337	Tric_rubr_MR-850_V1	GCA_000616765.1	2014-04-ENA	N	N	N	N	N	fungi_ascomycota1_collection_core_31_84_1	165	
+Trichophyton soudanense CBS 452.61	trichophyton_soudanense_cbs_452_61	EnsemblFungi	1215331	Tric_soud_CBS_452_61_V1	GCA_000616865.1	2014-04-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	20	
+Trichophyton tonsurans CBS 112818	trichophyton_tonsurans_cbs_112818	EnsemblFungi	647933	ASM15145v1	GCA_000151455.1	2009-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	14	
+Trichophyton verrucosum HKI 0517	trichophyton_verrucosum_hki_0517	EnsemblFungi	663202	ASM15150v1	GCA_000151505.1	2010-03-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	86	
+Trichosporon asahii var. asahii CBS 2479	trichosporon_asahii_var_asahii_cbs_2479	EnsemblFungi	1186058	Trichosporon asahii 1	GCA_000293215.1	2012-08-ENA	N	N	N	N	N	fungi_basidiomycota1_collection_core_31_84_1	50	
+Trichosporon asahii var. asahii CBS 8904	trichosporon_asahii_var_asahii_cbs_8904	EnsemblFungi	1220162	ASM29921v2	GCA_000299215.2	2012-09-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	28	
+Trichosporon oleaginosus	trichosporon_oleaginosus	EnsemblFungi	879819	Triol1	GCA_001027345.1	2015-06-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	100	
+Tuber melanosporum	tuber_melanosporum	EnsemblFungi	656061	ASM15164v1	GCA_000151645.1	2011-07-Genoscope	N	N	Y	N	Y	tuber_melanosporum_core_31_84_1	1	
+Tulasnella calospora MUT 4182	tulasnella_calospora_mut_4182	EnsemblFungi	1051891	Tulasnella calospora AL13/4D v1.0	GCA_000827465.1	2015-02-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	93	
+Uncinocarpus reesii 1704	uncinocarpus_reesii_1704	EnsemblFungi	336963	ASM351v2	GCA_000003515.2	2005-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	2	
+Ustilaginoidea virens	ustilaginoidea_virens	EnsemblFungi	1159556	Assembly for version 1 of the Villosiclava virens genome	GCA_000687475.1	2014-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	102	
+Ustilaginoidea virens (GCA_000965225)	ustilaginoidea_virens_gca_000965225	EnsemblFungi	1159556	ASM96522v1	GCA_000965225.1	2015-04-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	1	
+Ustilago hordei	ustilago_hordei	EnsemblFungi	120017	ASM28603v1	GCA_000286035.1	2012-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	39	
+Ustilago maydis	ustilago_maydis	EnsemblFungi	237631	UM1	GCA_000328475.1	2011-04-Broad	N	Y	Y	Y	Y	ustilago_maydis_core_31_84_1	1	
+Vanderwaltozyma polyspora DSM 70294	vanderwaltozyma_polyspora_dsm_70294	EnsemblFungi	436907	ASM15003v1	GCA_000150035.1	2007-08-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	44	
+Vavraia culicis subsp. floridensis	vavraia_culicis_subsp_floridensis	EnsemblFungi	948595	Vavr_culi_floridensis_V1	GCA_000192795.1	2011-03-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	12	
+Verruconis gallopava	verruconis_gallopava	EnsemblFungi	253628	O_gall_CBS43764	GCA_000836295.1	2015-02-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	135	
+Verticillium alfalfae VaMs.102	verticillium_alfalfae_vams_102	EnsemblFungi	526221	ASM15082v1	GCA_000150825.1	2008-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	103	
+Verticillium dahliae	verticillium_dahliae	EnsemblFungi	498257	ASM15067v1	GCA_000150675.1	2008-03-Broad	N	N	Y	N	N	verticillium_dahliae_core_31_84_1	1	
+Verticillium dahliae JR2	verticillium_dahliaejr2	EnsemblFungi	1202531	VDAG_JR2v.4.0	GCA_000400815.2	2014-09-LPPWU	Y	N	N	N	N	verticillium_dahliaejr2_core_31_84_1	1	
+Verticillium longisporum	verticillium_longisporum	EnsemblFungi	100787	vl2.denovo.v1	GCA_001268165.1	2015-05-ENA	N	N	Y	N	N	fungi_ascomycota3_collection_core_31_84_1	38	
+Verticillium longisporum (GCA_001268145)	verticillium_longisporum_gca_001268145	EnsemblFungi	100787	vl1.denovo.v1	GCA_001268145.1	2015-05-ENA	N	N	N	N	N	fungi_ascomycota3_collection_core_31_84_1	43	
+Vittaforma corneae ATCC 50505	vittaforma_corneae_atcc_50505	EnsemblFungi	993615	Vitt_corn_V1	GCA_000231115.1	2011-10-ENA	N	N	Y	N	N	fungi_microsporidia1_collection_core_31_84_1	16	
+Wallemia ichthyophaga EXF-994	wallemia_ichthyophaga_exf_994	EnsemblFungi	1299270	Wallemia ichthyophaga version 1.0	GCA_000400465.1	2013-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	24	
+Wallemia mellicola CBS 633.66	wallemia_mellicola_cbs_633_66	EnsemblFungi	671144	Wallemia sebi v1.0	GCA_000263375.1	2012-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	42	
+Wickerhamomyces ciferrii	wickerhamomyces_ciferrii	EnsemblFungi	1041607	ASM31348v1	GCA_000313485.1	2012-09-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	99	
+Xanthophyllomyces dendrorhous	xanthophyllomyces_dendrorhous	EnsemblFungi	5421	Xden1	GCA_001007165.1	2015-05-ENA	N	N	Y	N	N	fungi_basidiomycota1_collection_core_31_84_1	98	
+Yarrowia lipolytica	yarrowia_lipolytica	EnsemblFungi	284591	ASM252v1	GCA_000002525.1	2004-07-Genolevures	N	N	Y	N	N	yarrowia_lipolytica_core_31_84_1	1	
+Zygosaccharomyces bailii ISA1307	zygosaccharomyces_bailii_isa1307	EnsemblFungi	1355161	Z_bailii_ISA1307_version_3	GCA_000530735.1	2014-01-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	95	
+Zygosaccharomyces rouxii	zygosaccharomyces_rouxii	EnsemblFungi	4956	ASM2636v1	GCA_000026365.1	2009-06-ENA	N	N	Y	N	N	fungi_ascomycota1_collection_core_31_84_1	168	
+Zymoseptoria brevis	zymoseptoria_brevis	EnsemblFungi	1047168	ASM96659v1	GCA_000966595.1	2015-04-ENA	N	N	Y	N	N	fungi_ascomycota2_collection_core_31_84_1	183	
+Zymoseptoria tritici	zymoseptoria_tritici	EnsemblFungi	336722	MG2	GCA_000219625.1	2011-07-JGI	Y	Y	Y	N	Y	zymoseptoria_tritici_core_31_84_2	1	

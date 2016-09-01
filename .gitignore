@@ -1,0 +1,25 @@
+# File patterns to exclude
+*.fasta
+*.fasta.*
+*.nwk
+*.phy
+*.phy.reduced
+*.jplace
+*.zip
+*.gz
+*.tgz
+*.tmp
+*.tab
+*~ 
+
+# File to exclude
+.directory
+nohup.out
+
+# Directory to exclude
+Analysis/
+Taxonomy/
+**/Result/
+**/Archive/
+
+
